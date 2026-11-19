@@ -9,7 +9,8 @@ eq as (  -- snaps totales de cada equipo por temporada y lado
   from s group by all
 ), liga as (select temporada, avg(of_total / partidos) of_pp, avg(def_total / partidos) def_pp, max(partidos) partidos from eq group by all)
 select jt.temporada, p.jugador, jt.pfr_id, any_value(p.nombre) nombre, any_value(p.posicion) posicion,
-       string_agg(jt.equipo, '/' order by jt.partidos_j desc) equipos, arg_max(jt.equipo, jt.partidos_j) equipo_principal,
+       string_agg(jt.equipo, '/' order by jt.partidos_j desc, jt.equipo) equipos,
+       arg_max(jt.equipo, (jt.partidos_j, jt.of_j + jt.def_j, jt.equipo)) equipo_principal,  -- desempate determinista
        sum(partidos_j) partidos, sum(of_j) snaps_of, sum(def_j) snaps_def, sum(esp_j) snaps_esp,
        sum(of_j) / any_value(l.of_pp * l.partidos) as part_of,
        sum(def_j) / any_value(l.def_pp * l.partidos) as part_def,
