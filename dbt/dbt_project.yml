@@ -10,5 +10,5 @@ vars:
   raw: "{{ env_var('NFL_RAW', '../data/raw') }}"
 models:
   nfl_novatos:
-    staging: { +materialized: view, +schema: staging }
+    staging: { +materialized: table, +schema: staging }  # tablas: la base queda autocontenida
     marts: { +materialized: table, +schema: marts }

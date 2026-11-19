@@ -1,0 +1,230 @@
+{
+ "panorama": {
+  "liga": [
+   {
+    "temporada": 2013,
+    "ataque": 0.1049,
+    "defensa": 0.1121
+   },
+   {
+    "temporada": 2014,
+    "ataque": 0.1302,
+    "defensa": 0.0894
+   },
+   {
+    "temporada": 2015,
+    "ataque": 0.1042,
+    "defensa": 0.0991
+   },
+   {
+    "temporada": 2016,
+    "ataque": 0.1002,
+    "defensa": 0.1221
+   },
+   {
+    "temporada": 2017,
+    "ataque": 0.087,
+    "defensa": 0.1175
+   },
+   {
+    "temporada": 2018,
+    "ataque": 0.11,
+    "defensa": 0.1173
+   },
+   {
+    "temporada": 2019,
+    "ataque": 0.113,
+    "defensa": 0.1133
+   },
+   {
+    "temporada": 2020,
+    "ataque": 0.114,
+    "defensa": 0.1022
+   },
+   {
+    "temporada": 2021,
+    "ataque": 0.1092,
+    "defensa": 0.0964
+   },
+   {
+    "temporada": 2022,
+    "ataque": 0.1131,
+    "defensa": 0.1165
+   },
+   {
+    "temporada": 2023,
+    "ataque": 0.1254,
+    "defensa": 0.0925
+   },
+   {
+    "temporada": 2024,
+    "ataque": 0.1183,
+    "defensa": 0.1009
+   },
+   {
+    "temporada": 2025,
+    "ataque": 0.118,
+    "defensa": 0.109
+   },
+   {
+    "temporada": 2026,
+    "ataque": 0.096,
+    "defensa": 0.0977
+   }
+  ],
+  "qb_titular": [
+   {
+    "temporada": 2013,
+    "partidos": 512,
+    "con_qb_novato": 47,
+    "pct": 0.0918
+   },
+   {
+    "temporada": 2014,
+    "partidos": 512,
+    "con_qb_novato": 53,
+    "pct": 0.1035
+   },
+   {
+    "temporada": 2015,
+    "partidos": 512,
+    "con_qb_novato": 27,
+    "pct": 0.0527
+   },
+   {
+    "temporada": 2016,
+    "partidos": 512,
+    "con_qb_novato": 50,
+    "pct": 0.0977
+   },
+   {
+    "temporada": 2017,
+    "partidos": 512,
+    "con_qb_novato": 41,
+    "pct": 0.0801
+   },
+   {
+    "temporada": 2018,
+    "partidos": 512,
+    "con_qb_novato": 60,
+    "pct": 0.1172
+   },
+   {
+    "temporada": 2019,
+    "partidos": 512,
+    "con_qb_novato": 69,
+    "pct": 0.1348
+   },
+   {
+    "temporada": 2020,
+    "partidos": 512,
+    "con_qb_novato": 44,
+    "pct": 0.0859
+   },
+   {
+    "temporada": 2021,
+    "partidos": 544,
+    "con_qb_novato": 73,
+    "pct": 0.1342
+   },
+   {
+    "temporada": 2022,
+    "partidos": 542,
+    "con_qb_novato": 32,
+    "pct": 0.059
+   },
+   {
+    "temporada": 2023,
+    "partidos": 544,
+    "con_qb_novato": 67,
+    "pct": 0.1232
+   },
+   {
+    "temporada": 2024,
+    "partidos": 544,
+    "con_qb_novato": 70,
+    "pct": 0.1287
+   },
+   {
+    "temporada": 2025,
+    "partidos": 544,
+    "con_qb_novato": 63,
+    "pct": 0.1158
+   },
+   {
+    "temporada": 2026,
+    "partidos": 300,
+    "con_qb_novato": 8,
+    "pct": 0.0267
+   }
+  ]
+ },
+ "resultados": {
+  "mismo_anio_simple": {
+   "coef": -5.3952,
+   "ee": 0.5576,
+   "p": 0.0,
+   "ic_bajo": -6.4881,
+   "ic_alto": -4.3023,
+   "n": 402
+  },
+  "mismo_anio_controles": {
+   "coef": -4.0759,
+   "ee": 0.583,
+   "p": 0.0,
+   "ic_bajo": -5.2186,
+   "ic_alto": -2.9333,
+   "n": 402
+  },
+  "anio_siguiente": {
+   "coef": 0.6178,
+   "ee": 0.7537,
+   "p": 0.4124,
+   "ic_bajo": -0.8594,
+   "ic_alto": 2.095,
+   "n": 370
+  },
+  "descriptivo": {
+   "media_part": 0.1084,
+   "min": 0.0152,
+   "max": 0.2516
+  },
+  "extremos": [
+   {
+    "temporada": 2014,
+    "equipo": "JAX",
+    "part_novatos": 0.2516,
+    "victorias": 3.0,
+    "dif_por_partido": -10.1875
+   },
+   {
+    "temporada": 2016,
+    "equipo": "CLE",
+    "part_novatos": 0.2342,
+    "victorias": 1.0,
+    "dif_por_partido": -11.75
+   },
+   {
+    "temporada": 2019,
+    "equipo": "MIA",
+    "part_novatos": 0.2253,
+    "victorias": 5.0,
+    "dif_por_partido": -11.75
+   },
+   {
+    "temporada": 2019,
+    "equipo": "NYG",
+    "part_novatos": 0.2164,
+    "victorias": 4.0,
+    "dif_por_partido": -6.875
+   },
+   {
+    "temporada": 2025,
+    "equipo": "CLE",
+    "part_novatos": 0.2158,
+    "victorias": 5.0,
+    "dif_por_partido": -5.8824
+   }
+  ]
+ }
+}

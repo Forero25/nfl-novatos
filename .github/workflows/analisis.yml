@@ -1,0 +1,35 @@
+name: analisis
+on:
+  schedule:
+    - cron: "23 11 * * 2"   # martes, después de la jornada del lunes (temporada regular)
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths: ["ingesta/**", "dbt/**", "analisis/**", "tests/**", "Dockerfile", "correr.sh", "requirements-pipeline.txt"]
+permissions: { contents: write }
+concurrency: { group: analisis, cancel-in-progress: false }
+jobs:
+  pipeline:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v5
+      - name: Caché de temporadas cerradas
+        uses: actions/cache@v4
+        with:
+          path: data/raw/pbp
+          key: pbp-${{ hashFiles('ingesta/descargar.py') }}-${{ github.run_id }}
+          restore-keys: pbp-${{ hashFiles('ingesta/descargar.py') }}-
+      - name: Construir la imagen
+        run: docker build -t nfl-novatos .
+      - name: Correr el pipeline en el contenedor
+        run: |
+          mkdir -p data
+          docker run --rm -v "$PWD/data:/app/data" -v "$PWD/resultados:/app/resultados" -v "$PWD/publicado:/app/publicado" nfl-novatos
+      - name: Guardar resultados
+        run: |
+          git config user.name "Jose Nicolas Forero"; git config user.email "175185823+Forero25@users.noreply.github.com"
+          git add resultados publicado
+          git diff --cached --quiet && exit 0
+          git commit -m "Resultados semanales $(date -u +%F)"
+          git pull --rebase -X ours origin main && git push

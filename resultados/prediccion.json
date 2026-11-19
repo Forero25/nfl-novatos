@@ -1,0 +1,860 @@
+{
+ "n": 3311,
+ "clases": [
+  2013,
+  2022
+ ],
+ "tasa": 0.2283,
+ "n_evaluados": 2014,
+ "metricas": [
+  {
+   "modelo": "Tasa base",
+   "auc": 0.5,
+   "brier": 0.1762,
+   "log_loss": 0.5373
+  },
+  {
+   "modelo": "Solo draft (logística)",
+   "auc": 0.8385,
+   "brier": 0.1262,
+   "log_loss": 0.3994
+  },
+  {
+   "modelo": "Draft + novato (logística)",
+   "auc": 0.8871,
+   "brier": 0.1082,
+   "log_loss": 0.3465
+  },
+  {
+   "modelo": "Draft + novato (boosting)",
+   "auc": 0.8689,
+   "brier": 0.114,
+   "log_loss": 0.366
+  },
+  {
+   "modelo": "Solo novato (logística)",
+   "auc": 0.8694,
+   "brier": 0.1144,
+   "log_loss": 0.3651
+  }
+ ],
+ "dif_auc_novato_vs_draft": {
+  "dif": 0.0486,
+  "ic_bajo": 0.0368,
+  "ic_alto": 0.0594
+ },
+ "dif_auc_boosting_vs_logistica": {
+  "dif": -0.0182,
+  "ic_bajo": -0.0274,
+  "ic_alto": -0.0088
+ },
+ "calibracion": [
+  {
+   "predicho": 0.0166,
+   "observado": 0.005,
+   "n": 202
+  },
+  {
+   "predicho": 0.0306,
+   "observado": 0.0149,
+   "n": 201
+  },
+  {
+   "predicho": 0.045,
+   "observado": 0.0199,
+   "n": 201
+  },
+  {
+   "predicho": 0.0642,
+   "observado": 0.0446,
+   "n": 202
+  },
+  {
+   "predicho": 0.0931,
+   "observado": 0.0945,
+   "n": 201
+  },
+  {
+   "predicho": 0.1324,
+   "observado": 0.1095,
+   "n": 201
+  },
+  {
+   "predicho": 0.2023,
+   "observado": 0.203,
+   "n": 202
+  },
+  {
+   "predicho": 0.3271,
+   "observado": 0.403,
+   "n": 201
+  },
+  {
+   "predicho": 0.5343,
+   "observado": 0.5871,
+   "n": 201
+  },
+  {
+   "predicho": 0.8505,
+   "observado": 0.802,
+   "n": 202
+  }
+ ],
+ "por_ronda": [
+  {
+   "ronda_g": "1",
+   "n": 307,
+   "tasa": 0.6971
+  },
+  {
+   "ronda_g": "2",
+   "n": 301,
+   "tasa": 0.5183
+  },
+  {
+   "ronda_g": "3",
+   "n": 350,
+   "tasa": 0.3686
+  },
+  {
+   "ronda_g": "4",
+   "n": 333,
+   "tasa": 0.2462
+  },
+  {
+   "ronda_g": "5",
+   "n": 289,
+   "tasa": 0.2007
+  },
+  {
+   "ronda_g": "6",
+   "n": 285,
+   "tasa": 0.0912
+  },
+  {
+   "ronda_g": "7",
+   "n": 228,
+   "tasa": 0.057
+  },
+  {
+   "ronda_g": "No drafteado",
+   "n": 1218,
+   "tasa": 0.064
+  }
+ ],
+ "por_participacion": [
+  {
+   "tramo": "No jugó",
+   "n": 276,
+   "tasa": 0.0326
+  },
+  {
+   "tramo": "0-25 %",
+   "n": 1897,
+   "tasa": 0.0907
+  },
+  {
+   "tramo": "25-50 %",
+   "n": 593,
+   "tasa": 0.3305
+  },
+  {
+   "tramo": "50-75 %",
+   "n": 316,
+   "tasa": 0.6076
+  },
+  {
+   "tramo": "75 % o más",
+   "n": 229,
+   "tasa": 0.8166
+  }
+ ],
+ "equivalencia": [
+  {
+   "grupo": "WR",
+   "pick": 10,
+   "participacion": 0.1,
+   "prob": 0.4947
+  },
+  {
+   "grupo": "WR",
+   "pick": 10,
+   "participacion": 0.4,
+   "prob": 0.7413
+  },
+  {
+   "grupo": "WR",
+   "pick": 10,
+   "participacion": 0.7,
+   "prob": 0.8365
+  },
+  {
+   "grupo": "WR",
+   "pick": 32,
+   "participacion": 0.1,
+   "prob": 0.3149
+  },
+  {
+   "grupo": "WR",
+   "pick": 32,
+   "participacion": 0.4,
+   "prob": 0.5737
+  },
+  {
+   "grupo": "WR",
+   "pick": 32,
+   "participacion": 0.7,
+   "prob": 0.7061
+  },
+  {
+   "grupo": "WR",
+   "pick": 64,
+   "participacion": 0.1,
+   "prob": 0.2266
+  },
+  {
+   "grupo": "WR",
+   "pick": 64,
+   "participacion": 0.4,
+   "prob": 0.4616
+  },
+  {
+   "grupo": "WR",
+   "pick": 64,
+   "participacion": 0.7,
+   "prob": 0.6049
+  },
+  {
+   "grupo": "WR",
+   "pick": 100,
+   "participacion": 0.1,
+   "prob": 0.1798
+  },
+  {
+   "grupo": "WR",
+   "pick": 100,
+   "participacion": 0.4,
+   "prob": 0.3908
+  },
+  {
+   "grupo": "WR",
+   "pick": 100,
+   "participacion": 0.7,
+   "prob": 0.5339
+  },
+  {
+   "grupo": "WR",
+   "pick": 150,
+   "participacion": 0.1,
+   "prob": 0.1441
+  },
+  {
+   "grupo": "WR",
+   "pick": 150,
+   "participacion": 0.4,
+   "prob": 0.3302
+  },
+  {
+   "grupo": "WR",
+   "pick": 150,
+   "participacion": 0.7,
+   "prob": 0.4681
+  },
+  {
+   "grupo": "WR",
+   "pick": 220,
+   "participacion": 0.1,
+   "prob": 0.116
+  },
+  {
+   "grupo": "WR",
+   "pick": 220,
+   "participacion": 0.4,
+   "prob": 0.2776
+  },
+  {
+   "grupo": "WR",
+   "pick": 220,
+   "participacion": 0.7,
+   "prob": 0.4069
+  },
+  {
+   "grupo": "OL",
+   "pick": 10,
+   "participacion": 0.1,
+   "prob": 0.667
+  },
+  {
+   "grupo": "OL",
+   "pick": 10,
+   "participacion": 0.4,
+   "prob": 0.8543
+  },
+  {
+   "grupo": "OL",
+   "pick": 10,
+   "participacion": 0.7,
+   "prob": 0.9128
+  },
+  {
+   "grupo": "OL",
+   "pick": 32,
+   "participacion": 0.1,
+   "prob": 0.4846
+  },
+  {
+   "grupo": "OL",
+   "pick": 32,
+   "participacion": 0.4,
+   "prob": 0.7335
+  },
+  {
+   "grupo": "OL",
+   "pick": 32,
+   "participacion": 0.7,
+   "prob": 0.8309
+  },
+  {
+   "grupo": "OL",
+   "pick": 64,
+   "participacion": 0.1,
+   "prob": 0.3747
+  },
+  {
+   "grupo": "OL",
+   "pick": 64,
+   "participacion": 0.4,
+   "prob": 0.6369
+  },
+  {
+   "grupo": "OL",
+   "pick": 64,
+   "participacion": 0.7,
+   "prob": 0.7579
+  },
+  {
+   "grupo": "OL",
+   "pick": 100,
+   "participacion": 0.1,
+   "prob": 0.3095
+  },
+  {
+   "grupo": "OL",
+   "pick": 100,
+   "participacion": 0.4,
+   "prob": 0.5675
+  },
+  {
+   "grupo": "OL",
+   "pick": 100,
+   "participacion": 0.7,
+   "prob": 0.7008
+  },
+  {
+   "grupo": "OL",
+   "pick": 150,
+   "participacion": 0.1,
+   "prob": 0.2562
+  },
+  {
+   "grupo": "OL",
+   "pick": 150,
+   "participacion": 0.4,
+   "prob": 0.502
+  },
+  {
+   "grupo": "OL",
+   "pick": 150,
+   "participacion": 0.7,
+   "prob": 0.6428
+  },
+  {
+   "grupo": "OL",
+   "pick": 220,
+   "participacion": 0.1,
+   "prob": 0.2117
+  },
+  {
+   "grupo": "OL",
+   "pick": 220,
+   "participacion": 0.4,
+   "prob": 0.4401
+  },
+  {
+   "grupo": "OL",
+   "pick": 220,
+   "participacion": 0.7,
+   "prob": 0.5839
+  },
+  {
+   "grupo": "DB",
+   "pick": 10,
+   "participacion": 0.1,
+   "prob": 0.4908
+  },
+  {
+   "grupo": "DB",
+   "pick": 10,
+   "participacion": 0.4,
+   "prob": 0.7383
+  },
+  {
+   "grupo": "DB",
+   "pick": 10,
+   "participacion": 0.7,
+   "prob": 0.8344
+  },
+  {
+   "grupo": "DB",
+   "pick": 32,
+   "participacion": 0.1,
+   "prob": 0.3116
+  },
+  {
+   "grupo": "DB",
+   "pick": 32,
+   "participacion": 0.4,
+   "prob": 0.5699
+  },
+  {
+   "grupo": "DB",
+   "pick": 32,
+   "participacion": 0.7,
+   "prob": 0.7028
+  },
+  {
+   "grupo": "DB",
+   "pick": 64,
+   "participacion": 0.1,
+   "prob": 0.2239
+  },
+  {
+   "grupo": "DB",
+   "pick": 64,
+   "participacion": 0.4,
+   "prob": 0.4578
+  },
+  {
+   "grupo": "DB",
+   "pick": 64,
+   "participacion": 0.7,
+   "prob": 0.6012
+  },
+  {
+   "grupo": "DB",
+   "pick": 100,
+   "participacion": 0.1,
+   "prob": 0.1775
+  },
+  {
+   "grupo": "DB",
+   "pick": 100,
+   "participacion": 0.4,
+   "prob": 0.3871
+  },
+  {
+   "grupo": "DB",
+   "pick": 100,
+   "participacion": 0.7,
+   "prob": 0.53
+  },
+  {
+   "grupo": "DB",
+   "pick": 150,
+   "participacion": 0.1,
+   "prob": 0.1422
+  },
+  {
+   "grupo": "DB",
+   "pick": 150,
+   "participacion": 0.4,
+   "prob": 0.3267
+  },
+  {
+   "grupo": "DB",
+   "pick": 150,
+   "participacion": 0.7,
+   "prob": 0.4642
+  },
+  {
+   "grupo": "DB",
+   "pick": 220,
+   "participacion": 0.1,
+   "prob": 0.1145
+  },
+  {
+   "grupo": "DB",
+   "pick": 220,
+   "participacion": 0.4,
+   "prob": 0.2745
+  },
+  {
+   "grupo": "DB",
+   "pick": 220,
+   "participacion": 0.7,
+   "prob": 0.4032
+  }
+ ],
+ "pronosticos": {
+  "2023": [
+   {
+    "nombre": "C.J. Stroud",
+    "temporada": 2023,
+    "grupo": "QB",
+    "pick_ef": 2.0,
+    "participacion": 0.8639,
+    "prob": 0.9922
+   },
+   {
+    "nombre": "Devon Witherspoon",
+    "temporada": 2023,
+    "grupo": "DB",
+    "pick_ef": 5.0,
+    "participacion": 0.7927,
+    "prob": 0.9783
+   },
+   {
+    "nombre": "Paris Johnson Jr.",
+    "temporada": 2023,
+    "grupo": "OL",
+    "pick_ef": 6.0,
+    "participacion": 1.0112,
+    "prob": 0.9764
+   },
+   {
+    "nombre": "Darnell Wright",
+    "temporada": 2023,
+    "grupo": "OL",
+    "pick_ef": 10.0,
+    "participacion": 1.0112,
+    "prob": 0.968
+   },
+   {
+    "nombre": "Anton Harrison",
+    "temporada": 2023,
+    "grupo": "OL",
+    "pick_ef": 27.0,
+    "participacion": 0.9933,
+    "prob": 0.9421
+   },
+   {
+    "nombre": "Peter Skoronski",
+    "temporada": 2023,
+    "grupo": "OL",
+    "pick_ef": 11.0,
+    "participacion": 0.7693,
+    "prob": 0.9235
+   },
+   {
+    "nombre": "Steve Avila",
+    "temporada": 2023,
+    "grupo": "OL",
+    "pick_ef": 36.0,
+    "participacion": 1.0245,
+    "prob": 0.9115
+   },
+   {
+    "nombre": "Matthew Bergeron",
+    "temporada": 2023,
+    "grupo": "OL",
+    "pick_ef": 38.0,
+    "participacion": 1.0076,
+    "prob": 0.9096
+   },
+   {
+    "nombre": "Broderick Jones",
+    "temporada": 2023,
+    "grupo": "OL",
+    "pick_ef": 14.0,
+    "participacion": 0.6845,
+    "prob": 0.9077
+   },
+   {
+    "nombre": "O'Cyrus Torrence",
+    "temporada": 2023,
+    "grupo": "OL",
+    "pick_ef": 59.0,
+    "participacion": 1.0388,
+    "prob": 0.8899
+   },
+   {
+    "nombre": "Brian Branch",
+    "temporada": 2023,
+    "grupo": "DB",
+    "pick_ef": 45.0,
+    "participacion": 0.6625,
+    "prob": 0.8809
+   },
+   {
+    "nombre": "Jordan Addison",
+    "temporada": 2023,
+    "grupo": "WR",
+    "pick_ef": 23.0,
+    "participacion": 0.822,
+    "prob": 0.8791
+   }
+  ],
+  "2024": [
+   {
+    "nombre": "Jayden Daniels",
+    "temporada": 2024,
+    "grupo": "QB",
+    "pick_ef": 2.0,
+    "participacion": 0.9553,
+    "prob": 0.9935
+   },
+   {
+    "nombre": "JC Latham",
+    "temporada": 2024,
+    "grupo": "OL",
+    "pick_ef": 7.0,
+    "participacion": 0.9841,
+    "prob": 0.9745
+   },
+   {
+    "nombre": "Joe Alt",
+    "temporada": 2024,
+    "grupo": "OL",
+    "pick_ef": 5.0,
+    "participacion": 0.9095,
+    "prob": 0.9735
+   },
+   {
+    "nombre": "Caleb Williams",
+    "temporada": 2024,
+    "grupo": "QB",
+    "pick_ef": 1.0,
+    "participacion": 1.0102,
+    "prob": 0.9679
+   },
+   {
+    "nombre": "Taliese Fuaga",
+    "temporada": 2024,
+    "grupo": "OL",
+    "pick_ef": 14.0,
+    "participacion": 0.9634,
+    "prob": 0.953
+   },
+   {
+    "nombre": "Malik Nabers",
+    "temporada": 2024,
+    "grupo": "WR",
+    "pick_ef": 6.0,
+    "participacion": 0.797,
+    "prob": 0.9506
+   },
+   {
+    "nombre": "Marvin Harrison Jr.",
+    "temporada": 2024,
+    "grupo": "WR",
+    "pick_ef": 4.0,
+    "participacion": 0.7781,
+    "prob": 0.9477
+   },
+   {
+    "nombre": "Bo Nix",
+    "temporada": 2024,
+    "grupo": "QB",
+    "pick_ef": 12.0,
+    "participacion": 0.9787,
+    "prob": 0.9465
+   },
+   {
+    "nombre": "Graham Barton",
+    "temporada": 2024,
+    "grupo": "OL",
+    "pick_ef": 26.0,
+    "participacion": 0.958,
+    "prob": 0.9274
+   },
+   {
+    "nombre": "Rome Odunze",
+    "temporada": 2024,
+    "grupo": "WR",
+    "pick_ef": 9.0,
+    "participacion": 0.8582,
+    "prob": 0.9155
+   },
+   {
+    "nombre": "Amarius Mims",
+    "temporada": 2024,
+    "grupo": "OL",
+    "pick_ef": 18.0,
+    "participacion": 0.752,
+    "prob": 0.9025
+   },
+   {
+    "nombre": "Brian Thomas Jr.",
+    "temporada": 2024,
+    "grupo": "WR",
+    "pick_ef": 23.0,
+    "participacion": 0.7385,
+    "prob": 0.8964
+   }
+  ],
+  "2025": [
+   {
+    "nombre": "Armand Membou",
+    "temporada": 2025,
+    "grupo": "OL",
+    "pick_ef": 7.0,
+    "participacion": 0.9589,
+    "prob": 0.9733
+   },
+   {
+    "nombre": "Kelvin Banks Jr.",
+    "temporada": 2025,
+    "grupo": "OL",
+    "pick_ef": 9.0,
+    "participacion": 0.9763,
+    "prob": 0.9699
+   },
+   {
+    "nombre": "Will Campbell",
+    "temporada": 2025,
+    "grupo": "OL",
+    "pick_ef": 4.0,
+    "participacion": 0.7171,
+    "prob": 0.9529
+   },
+   {
+    "nombre": "Tyler Booker",
+    "temporada": 2025,
+    "grupo": "OL",
+    "pick_ef": 12.0,
+    "participacion": 0.9177,
+    "prob": 0.9496
+   },
+   {
+    "nombre": "Abdul Carter",
+    "temporada": 2025,
+    "grupo": "LB",
+    "pick_ef": 3.0,
+    "participacion": 0.7783,
+    "prob": 0.9415
+   },
+   {
+    "nombre": "Grey Zabel",
+    "temporada": 2025,
+    "grupo": "OL",
+    "pick_ef": 18.0,
+    "participacion": 0.9626,
+    "prob": 0.9363
+   },
+   {
+    "nombre": "Josh Conerly Jr.",
+    "temporada": 2025,
+    "grupo": "OL",
+    "pick_ef": 29.0,
+    "participacion": 0.9653,
+    "prob": 0.9328
+   },
+   {
+    "nombre": "Tetairoa McMillan",
+    "temporada": 2025,
+    "grupo": "WR",
+    "pick_ef": 8.0,
+    "participacion": 0.8472,
+    "prob": 0.9202
+   },
+   {
+    "nombre": "Jonah Savaiinaea",
+    "temporada": 2025,
+    "grupo": "OL",
+    "pick_ef": 37.0,
+    "participacion": 0.8985,
+    "prob": 0.9108
+   },
+   {
+    "nombre": "Malaki Starks",
+    "temporada": 2025,
+    "grupo": "DB",
+    "pick_ef": 27.0,
+    "participacion": 0.9832,
+    "prob": 0.8966
+   },
+   {
+    "nombre": "Colston Loveland",
+    "temporada": 2025,
+    "grupo": "TE",
+    "pick_ef": 10.0,
+    "participacion": 0.642,
+    "prob": 0.8944
+   },
+   {
+    "nombre": "Aireontae Ersery",
+    "temporada": 2025,
+    "grupo": "OL",
+    "pick_ef": 48.0,
+    "participacion": 0.991,
+    "prob": 0.8849
+   }
+  ]
+ },
+ "sorpresas_2025": [
+  {
+   "nombre": "Craig Woodson",
+   "temporada": 2025,
+   "grupo": "DB",
+   "pick_ef": 106.0,
+   "participacion": 0.8771,
+   "prob": 0.6615
+  },
+  {
+   "nombre": "Malachi Moore",
+   "temporada": 2025,
+   "grupo": "DB",
+   "pick_ef": 130.0,
+   "participacion": 0.8771,
+   "prob": 0.6604
+  },
+  {
+   "nombre": "Denzel Burke",
+   "temporada": 2025,
+   "grupo": "DB",
+   "pick_ef": 174.0,
+   "participacion": 0.6269,
+   "prob": 0.5517
+  },
+  {
+   "nombre": "Jalen Rivers",
+   "temporada": 2025,
+   "grupo": "OL",
+   "pick_ef": 153.0,
+   "participacion": 0.4359,
+   "prob": 0.5287
+  },
+  {
+   "nombre": "Upton Stout",
+   "temporada": 2025,
+   "grupo": "DB",
+   "pick_ef": 100.0,
+   "participacion": 0.5475,
+   "prob": 0.4982
+  },
+  {
+   "nombre": "Jalen Travis",
+   "temporada": 2025,
+   "grupo": "OL",
+   "pick_ef": 127.0,
+   "participacion": 0.2885,
+   "prob": 0.4632
+  },
+  {
+   "nombre": "Barrett Carter",
+   "temporada": 2025,
+   "grupo": "LB",
+   "pick_ef": 119.0,
+   "participacion": 0.7312,
+   "prob": 0.4545
+  },
+  {
+   "nombre": "Quincy Riley",
+   "temporada": 2025,
+   "grupo": "DB",
+   "pick_ef": 131.0,
+   "participacion": 0.5484,
+   "prob": 0.4539
+  }
+ ]
+}

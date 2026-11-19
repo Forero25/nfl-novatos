@@ -2,19 +2,22 @@
 -- QB: todas sus jugadas de pase (incluye scrambles y sacks) con qb_epa, más sus carreras diseñadas.
 -- RB/WR/TE: carreras con epa y pases dirigidos a él (objetivos) con epa.
 with q as (
-  select temporada, passer_id as jugador, count(*) jugadas, sum(qb_epa) epa, sum(exito) exitos from {{ ref('stg_jugadas') }}
+  select temporada, passer_id as jugador, count(*) jugadas, sum(qb_epa) epa, sum(qb_epa * qb_epa) epa2, sum(exito) exitos from {{ ref('stg_jugadas') }}
   where dropback and passer_id is not null group by all
 ), r as (
-  select temporada, rusher_id, count(*), sum(epa), sum(exito) from {{ ref('stg_jugadas') }}
+  select temporada, rusher_id, count(*), sum(epa), sum(epa * epa), sum(exito) from {{ ref('stg_jugadas') }}
   where tipo = 'run' and not dropback and rusher_id is not null group by all
 ), t as (
-  select temporada, receiver_id, count(*), sum(epa), sum(exito) from {{ ref('stg_jugadas') }}
+  select temporada, receiver_id, count(*), sum(epa), sum(epa * epa), sum(exito) from {{ ref('stg_jugadas') }}
   where tipo = 'pass' and receiver_id is not null group by all
 ), u as (select * from q union all select * from r union all select * from t),
 j as (
-  select u.temporada, u.jugador, p.nombre, p.posicion, sum(jugadas) jugadas, sum(epa) epa, sum(exitos) exitos
+  select u.temporada, u.jugador, p.nombre,
+         case when coalesce(pt.posicion, p.posicion) = 'FB' then 'RB' else coalesce(pt.posicion, p.posicion) end as posicion,
+         sum(jugadas) jugadas, sum(epa) epa, sum(epa2) epa2, sum(exitos) exitos
   from u join {{ ref('stg_jugadores') }} p using (jugador)
-  where p.posicion in ('QB', 'RB', 'WR', 'TE') group by all
+  left join {{ ref('stg_posicion_temporada') }} pt on pt.jugador = u.jugador and pt.temporada = u.temporada
+  where coalesce(pt.posicion, p.posicion) in ('QB', 'RB', 'FB', 'WR', 'TE') group by all
 ),
 r2 as (  -- nivel de reemplazo: EPA por jugada de quienes quedan por fuera de los titulares de la liga
   select temporada, posicion, sum(epa) / sum(jugadas) as epa_reemplazo

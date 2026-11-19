@@ -1,0 +1,400 @@
+{
+ "valor": [
+  {
+   "grupo": "QB",
+   "etapa": "Año 5 en adelante",
+   "valor_por_pct": 7.1881,
+   "ic_bajo": 6.2031,
+   "ic_alto": 8.0724,
+   "temporadas": 551,
+   "jugadores": 127,
+   "pct_cap_mediano": 2.6
+  },
+  {
+   "grupo": "QB",
+   "etapa": "Años 2 a 4",
+   "valor_por_pct": 19.4184,
+   "ic_bajo": 14.8468,
+   "ic_alto": 24.9215,
+   "temporadas": 281,
+   "jugadores": 138,
+   "pct_cap_mediano": 0.7
+  },
+  {
+   "grupo": "QB",
+   "etapa": "Novato",
+   "valor_por_pct": 6.722,
+   "ic_bajo": -0.1146,
+   "ic_alto": 13.5288,
+   "temporadas": 102,
+   "jugadores": 102,
+   "pct_cap_mediano": 0.4
+  },
+  {
+   "grupo": "RB",
+   "etapa": "Año 5 en adelante",
+   "valor_por_pct": 1.2813,
+   "ic_bajo": 0.4775,
+   "ic_alto": 2.0768,
+   "temporadas": 680,
+   "jugadores": 250,
+   "pct_cap_mediano": 0.9
+  },
+  {
+   "grupo": "RB",
+   "etapa": "Años 2 a 4",
+   "valor_por_pct": 5.0318,
+   "ic_bajo": 3.4281,
+   "ic_alto": 6.6235,
+   "temporadas": 856,
+   "jugadores": 408,
+   "pct_cap_mediano": 0.4
+  },
+  {
+   "grupo": "RB",
+   "etapa": "Novato",
+   "valor_por_pct": 4.8302,
+   "ic_bajo": 1.5814,
+   "ic_alto": 8.0032,
+   "temporadas": 344,
+   "jugadores": 344,
+   "pct_cap_mediano": 0.3
+  },
+  {
+   "grupo": "TE",
+   "etapa": "Año 5 en adelante",
+   "valor_por_pct": -0.1405,
+   "ic_bajo": -0.7547,
+   "ic_alto": 0.4819,
+   "temporadas": 625,
+   "jugadores": 203,
+   "pct_cap_mediano": 1.5
+  },
+  {
+   "grupo": "TE",
+   "etapa": "Años 2 a 4",
+   "valor_por_pct": -0.5126,
+   "ic_bajo": -1.8696,
+   "ic_alto": 0.9822,
+   "temporadas": 640,
+   "jugadores": 314,
+   "pct_cap_mediano": 0.4
+  },
+  {
+   "grupo": "TE",
+   "etapa": "Novato",
+   "valor_por_pct": -1.2134,
+   "ic_bajo": -3.2465,
+   "ic_alto": 0.9809,
+   "temporadas": 204,
+   "jugadores": 204,
+   "pct_cap_mediano": 0.3
+  },
+  {
+   "grupo": "WR",
+   "etapa": "Año 5 en adelante",
+   "valor_por_pct": 2.3864,
+   "ic_bajo": 2.0274,
+   "ic_alto": 2.755,
+   "temporadas": 967,
+   "jugadores": 323,
+   "pct_cap_mediano": 1.8
+  },
+  {
+   "grupo": "WR",
+   "etapa": "Años 2 a 4",
+   "valor_por_pct": 6.1152,
+   "ic_bajo": 4.837,
+   "ic_alto": 7.5797,
+   "temporadas": 1140,
+   "jugadores": 564,
+   "pct_cap_mediano": 0.4
+  },
+  {
+   "grupo": "WR",
+   "etapa": "Novato",
+   "valor_por_pct": 4.1586,
+   "ic_bajo": 2.0781,
+   "ic_alto": 6.4241,
+   "temporadas": 440,
+   "jugadores": 440,
+   "pct_cap_mediano": 0.3
+  }
+ ],
+ "snaps": [
+  {
+   "grupo": "DB",
+   "etapa": "Año 5 en adelante",
+   "titular_por_pct": 0.2414,
+   "ic_bajo": 0.228,
+   "ic_alto": 0.2563,
+   "temporadas": 1880
+  },
+  {
+   "grupo": "DB",
+   "etapa": "Años 2 a 4",
+   "titular_por_pct": 0.6247,
+   "ic_bajo": 0.5954,
+   "ic_alto": 0.6585,
+   "temporadas": 2091
+  },
+  {
+   "grupo": "DB",
+   "etapa": "Novato",
+   "titular_por_pct": 0.6613,
+   "ic_bajo": 0.6175,
+   "ic_alto": 0.7055,
+   "temporadas": 860
+  },
+  {
+   "grupo": "DL",
+   "etapa": "Año 5 en adelante",
+   "titular_por_pct": 0.1652,
+   "ic_bajo": 0.1563,
+   "ic_alto": 0.176,
+   "temporadas": 1665
+  },
+  {
+   "grupo": "DL",
+   "etapa": "Años 2 a 4",
+   "titular_por_pct": 0.4654,
+   "ic_bajo": 0.4325,
+   "ic_alto": 0.4974,
+   "temporadas": 1468
+  },
+  {
+   "grupo": "DL",
+   "etapa": "Novato",
+   "titular_por_pct": 0.4714,
+   "ic_bajo": 0.4399,
+   "ic_alto": 0.5039,
+   "temporadas": 562
+  },
+  {
+   "grupo": "LB",
+   "etapa": "Año 5 en adelante",
+   "titular_por_pct": 0.2088,
+   "ic_bajo": 0.1933,
+   "ic_alto": 0.2234,
+   "temporadas": 1342
+  },
+  {
+   "grupo": "LB",
+   "etapa": "Años 2 a 4",
+   "titular_por_pct": 0.4977,
+   "ic_bajo": 0.4672,
+   "ic_alto": 0.5308,
+   "temporadas": 1530
+  },
+  {
+   "grupo": "LB",
+   "etapa": "Novato",
+   "titular_por_pct": 0.4901,
+   "ic_bajo": 0.4537,
+   "ic_alto": 0.5279,
+   "temporadas": 623
+  },
+  {
+   "grupo": "OL",
+   "etapa": "Año 5 en adelante",
+   "titular_por_pct": 0.2398,
+   "ic_bajo": 0.2262,
+   "ic_alto": 0.2552,
+   "temporadas": 1823
+  },
+  {
+   "grupo": "OL",
+   "etapa": "Años 2 a 4",
+   "titular_por_pct": 0.6283,
+   "ic_bajo": 0.5928,
+   "ic_alto": 0.6659,
+   "temporadas": 1602
+  },
+  {
+   "grupo": "OL",
+   "etapa": "Novato",
+   "titular_por_pct": 0.7098,
+   "ic_bajo": 0.6552,
+   "ic_alto": 0.7649,
+   "temporadas": 557
+  },
+  {
+   "grupo": "QB",
+   "etapa": "Año 5 en adelante",
+   "titular_por_pct": 0.0855,
+   "ic_bajo": 0.0795,
+   "ic_alto": 0.0926,
+   "temporadas": 572
+  },
+  {
+   "grupo": "QB",
+   "etapa": "Años 2 a 4",
+   "titular_por_pct": 0.2655,
+   "ic_bajo": 0.2378,
+   "ic_alto": 0.3016,
+   "temporadas": 289
+  },
+  {
+   "grupo": "QB",
+   "etapa": "Novato",
+   "titular_por_pct": 0.3708,
+   "ic_bajo": 0.3204,
+   "ic_alto": 0.4334,
+   "temporadas": 104
+  },
+  {
+   "grupo": "RB",
+   "etapa": "Año 5 en adelante",
+   "titular_por_pct": 0.1792,
+   "ic_bajo": 0.165,
+   "ic_alto": 0.1948,
+   "temporadas": 708
+  },
+  {
+   "grupo": "RB",
+   "etapa": "Años 2 a 4",
+   "titular_por_pct": 0.4149,
+   "ic_bajo": 0.3837,
+   "ic_alto": 0.4469,
+   "temporadas": 897
+  },
+  {
+   "grupo": "RB",
+   "etapa": "Novato",
+   "titular_por_pct": 0.4554,
+   "ic_bajo": 0.4174,
+   "ic_alto": 0.497,
+   "temporadas": 376
+  },
+  {
+   "grupo": "TE",
+   "etapa": "Año 5 en adelante",
+   "titular_por_pct": 0.2175,
+   "ic_bajo": 0.2022,
+   "ic_alto": 0.2346,
+   "temporadas": 658
+  },
+  {
+   "grupo": "TE",
+   "etapa": "Años 2 a 4",
+   "titular_por_pct": 0.5721,
+   "ic_bajo": 0.529,
+   "ic_alto": 0.6124,
+   "temporadas": 702
+  },
+  {
+   "grupo": "TE",
+   "etapa": "Novato",
+   "titular_por_pct": 0.5891,
+   "ic_bajo": 0.531,
+   "ic_alto": 0.6514,
+   "temporadas": 243
+  },
+  {
+   "grupo": "WR",
+   "etapa": "Año 5 en adelante",
+   "titular_por_pct": 0.1723,
+   "ic_bajo": 0.1601,
+   "ic_alto": 0.1865,
+   "temporadas": 1011
+  },
+  {
+   "grupo": "WR",
+   "etapa": "Años 2 a 4",
+   "titular_por_pct": 0.5503,
+   "ic_bajo": 0.5152,
+   "ic_alto": 0.5918,
+   "temporadas": 1206
+  },
+  {
+   "grupo": "WR",
+   "etapa": "Novato",
+   "titular_por_pct": 0.5954,
+   "ic_bajo": 0.5533,
+   "ic_alto": 0.6428,
+   "temporadas": 507
+  }
+ ],
+ "ejemplos_qb": [
+  {
+   "temporada": 2019,
+   "nombre": "Lamar Jackson",
+   "anio_carrera": 2,
+   "valor_reemplazo": 242.939,
+   "pct": 1.1,
+   "cap_usd": 2.1526
+  },
+  {
+   "temporada": 2018,
+   "nombre": "Patrick Mahomes",
+   "anio_carrera": 2,
+   "valor_reemplazo": 242.2647,
+   "pct": 2.1,
+   "cap_usd": 3.7332
+  },
+  {
+   "temporada": 2025,
+   "nombre": "Drake Maye",
+   "anio_carrera": 2,
+   "valor_reemplazo": 198.8863,
+   "pct": 2.6,
+   "cap_usd": 8.3272
+  },
+  {
+   "temporada": 2020,
+   "nombre": "Patrick Mahomes",
+   "anio_carrera": 4,
+   "valor_reemplazo": 196.2159,
+   "pct": 2.4,
+   "cap_usd": 5.3465
+  },
+  {
+   "temporada": 2019,
+   "nombre": "Patrick Mahomes",
+   "anio_carrera": 3,
+   "valor_reemplazo": 190.661,
+   "pct": 2.4,
+   "cap_usd": 4.4798
+  },
+  {
+   "temporada": 2020,
+   "nombre": "Josh Allen",
+   "anio_carrera": 3,
+   "valor_reemplazo": 188.1242,
+   "pct": 2.7,
+   "cap_usd": 5.8672
+  },
+  {
+   "temporada": 2019,
+   "nombre": "Dak Prescott",
+   "anio_carrera": 4,
+   "valor_reemplazo": 186.3297,
+   "pct": 1.1,
+   "cap_usd": 2.1208
+  },
+  {
+   "temporada": 2022,
+   "nombre": "Jalen Hurts",
+   "anio_carrera": 3,
+   "valor_reemplazo": 180.9346,
+   "pct": 0.7,
+   "cap_usd": 1.6432
+  },
+  {
+   "temporada": 2023,
+   "nombre": "Brock Purdy",
+   "anio_carrera": 2,
+   "valor_reemplazo": 180.4581,
+   "pct": 0.4,
+   "cap_usd": 0.8893
+  },
+  {
+   "temporada": 2015,
+   "nombre": "Russell Wilson",
+   "anio_carrera": 4,
+   "valor_reemplazo": 179.7384,
+   "pct": 4.7,
+   "cap_usd": 7.0549
+  }
+ ]
+}
