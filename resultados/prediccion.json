@@ -40,13 +40,13 @@
  ],
  "dif_auc_novato_vs_draft": {
   "dif": 0.0486,
-  "ic_bajo": 0.0368,
-  "ic_alto": 0.0614
+  "ic_bajo": 0.0367,
+  "ic_alto": 0.0601
  },
  "dif_auc_boosting_vs_logistica": {
   "dif": -0.0182,
-  "ic_bajo": -0.0278,
-  "ic_alto": -0.0093
+  "ic_bajo": -0.0275,
+  "ic_alto": -0.0096
  },
  "calibracion": [
   {

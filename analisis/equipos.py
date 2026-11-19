@@ -11,13 +11,14 @@ from .datos import ULTIMA_COMPLETA, grupo, leer, registros
 def panorama() -> dict:
     s = leer("""select s.temporada, s.equipo, s.partido, s.pos_snap, s.snaps_of, s.snaps_def, s.equipo_of,
                        p.temporada_novato = s.temporada as novato
-                from staging.stg_snaps s left join staging.stg_jugadores p on p.pfr_id = s.pfr_id""")
+                from staging.stg_snaps s left join staging.stg_jugadores p on p.pfr_id = s.pfr_id
+                order by s.partido, s.equipo, s.pfr_id""")
     s["novato"] = s["novato"].fillna(False).astype(bool)
     liga = s.groupby("temporada").apply(lambda d: pd.Series({
         "ataque": d.loc[d.novato, "snaps_of"].sum() / d["snaps_of"].sum(),
         "defensa": d.loc[d.novato, "snaps_def"].sum() / d["snaps_def"].sum()}), include_groups=False).reset_index()
     # quarterback titular de cada partido: el QB con más snaps ofensivos de su equipo
-    qb = s[s.pos_snap == "QB"].sort_values("snaps_of", ascending=False).drop_duplicates(["partido", "equipo"])
+    qb = s[s.pos_snap == "QB"].sort_values(["snaps_of", "novato"], ascending=False, kind="stable").drop_duplicates(["partido", "equipo"])
     qbs = qb.groupby("temporada").agg(partidos=("novato", "size"), con_qb_novato=("novato", "sum")).reset_index()
     qbs["pct"] = qbs["con_qb_novato"] / qbs["partidos"]
     return {"liga": registros(liga), "qb_titular": registros(qbs)}

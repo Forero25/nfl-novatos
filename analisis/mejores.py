@@ -12,7 +12,7 @@ COLS = ["temporada", "nombre", "posicion", "equipo", "pick", "ronda", "jugadas",
 
 def temporadas() -> pd.DataFrame:
     t = leer("""select t.*, p.snaps_def from marts.temporadas t
-                left join marts.participacion p using (temporada, jugador)""")
+                left join marts.participacion p using (temporada, jugador) order by temporada, jugador""")
     t["grupo"] = grupo(t["posicion"])
     return t
 
@@ -107,7 +107,7 @@ def correr() -> dict:
 
 def robustez(umbrales=((24, 36, 72, 36), (32, 48, 96, 48), (40, 64, 128, 64))) -> list[dict]:
     """¿Cambia el podio si el nivel de reemplazo se define con más o menos titulares por posición?"""
-    v = leer(f"select * from marts.valor_ofensivo where temporada <= {ULTIMA_COMPLETA}")
+    v = leer(f"select * from marts.valor_ofensivo where temporada <= {ULTIMA_COMPLETA} order by temporada, jugador")
     nov = leer("select jugador, temporada from marts.temporadas where novato")
     out, base = [], None
     for u in umbrales:

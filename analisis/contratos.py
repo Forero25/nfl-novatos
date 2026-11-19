@@ -29,7 +29,7 @@ def razon_boot(d: pd.DataFrame, num: str, den: str, reps: int = 1000, semilla: i
 
 def correr() -> dict:
     t = leer(f"""select * from marts.temporadas where temporada between 2013 and {ULTIMA_COMPLETA}
-                 and pct_cap > 0 and anio_carrera >= 1""")
+                 and pct_cap > 0 and anio_carrera >= 1 order by temporada, jugador""")
     t["grupo"] = grupo(t["posicion"])
     t["etapa"] = etapa(t["anio_carrera"])
     t["pct"] = 100 * t["pct_cap"]

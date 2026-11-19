@@ -133,10 +133,10 @@
   {
    "grupo": "DB",
    "etapa": "Años 2 a 4",
-   "titular_por_pct": 0.6247,
-   "ic_bajo": 0.5954,
-   "ic_alto": 0.6585,
-   "temporadas": 2091
+   "titular_por_pct": 0.6246,
+   "ic_bajo": 0.5948,
+   "ic_alto": 0.6553,
+   "temporadas": 2092
   },
   {
    "grupo": "DB",
@@ -149,18 +149,18 @@
   {
    "grupo": "DL",
    "etapa": "Año 5 en adelante",
-   "titular_por_pct": 0.1652,
+   "titular_por_pct": 0.1654,
    "ic_bajo": 0.1563,
    "ic_alto": 0.176,
-   "temporadas": 1665
+   "temporadas": 1666
   },
   {
    "grupo": "DL",
    "etapa": "Años 2 a 4",
-   "titular_por_pct": 0.4654,
-   "ic_bajo": 0.4325,
-   "ic_alto": 0.4974,
-   "temporadas": 1468
+   "titular_por_pct": 0.4653,
+   "ic_bajo": 0.4335,
+   "ic_alto": 0.5008,
+   "temporadas": 1470
   },
   {
    "grupo": "DL",
@@ -173,18 +173,18 @@
   {
    "grupo": "LB",
    "etapa": "Año 5 en adelante",
-   "titular_por_pct": 0.2088,
-   "ic_bajo": 0.1933,
+   "titular_por_pct": 0.2086,
+   "ic_bajo": 0.1937,
    "ic_alto": 0.2234,
-   "temporadas": 1342
+   "temporadas": 1341
   },
   {
    "grupo": "LB",
    "etapa": "Años 2 a 4",
-   "titular_por_pct": 0.4977,
-   "ic_bajo": 0.4672,
-   "ic_alto": 0.5308,
-   "temporadas": 1530
+   "titular_por_pct": 0.4978,
+   "ic_bajo": 0.4658,
+   "ic_alto": 0.5304,
+   "temporadas": 1527
   },
   {
    "grupo": "LB",
@@ -246,9 +246,9 @@
    "grupo": "RB",
    "etapa": "Año 5 en adelante",
    "titular_por_pct": 0.1792,
-   "ic_bajo": 0.165,
-   "ic_alto": 0.1948,
-   "temporadas": 708
+   "ic_bajo": 0.1652,
+   "ic_alto": 0.195,
+   "temporadas": 707
   },
   {
    "grupo": "RB",

@@ -22,7 +22,7 @@ NOVATO = ["participacion", "partidos", "valor_partido", "destacado_partido", "ti
 
 
 def datos() -> pd.DataFrame:
-    d = leer("select * from marts.carreras where temporada >= 2013")
+    d = leer("select * from marts.carreras where temporada >= 2013 order by temporada, jugador")
     d["grupo"] = grupo(d["posicion"])
     d = d[d.grupo.isin(GRUPOS)].copy()
     d["no_drafteado"] = (~d["drafteado"].fillna(False)).astype(int)

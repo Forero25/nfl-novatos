@@ -106,14 +106,14 @@
    {
     "temporada": 2018,
     "partidos": 512,
-    "con_qb_novato": 59,
-    "pct": 0.1152
+    "con_qb_novato": 60,
+    "pct": 0.1172
    },
    {
     "temporada": 2019,
     "partidos": 512,
-    "con_qb_novato": 69,
-    "pct": 0.1348
+    "con_qb_novato": 70,
+    "pct": 0.1367
    },
    {
     "temporada": 2020,
