@@ -100,6 +100,7 @@ def correr() -> dict:
                        "ofensivos": registros(of26.nlargest(10, "valor_reemplazo")[cols + ["ritmo_17"]]),
                        "defensivos": registros(de26.nlargest(10, "epa_destacado")[cols + ["ritmo_17"]])},
         "encogimiento": det,
+        "n_jugadas": int(leer("select count(*) n from staging.stg_jugadas")["n"].iloc[0]),
         "robustez": robustez(),
     }
     return res
