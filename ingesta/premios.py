@@ -12,7 +12,8 @@ import urllib.parse
 import urllib.request
 from pathlib import Path
 
-PAGINAS = {"ofensivo": "AP NFL Offensive Rookie of the Year", "defensivo": "AP NFL Defensive Rookie of the Year"}
+PAGINA = "AP NFL Offensive Rookie of the Year"  # una sola página con las secciones ===Offensive=== y ===Defensive===
+SECCIONES = {"ofensivo": "Offensive", "defensivo": "Defensive"}
 SALIDA = Path(__file__).resolve().parents[1] / "entradas" / "premios.csv"
 
 
@@ -49,8 +50,14 @@ def main() -> None:
     SALIDA.parent.mkdir(exist_ok=True)
     with open(SALIDA, "w", newline="") as f:
         w = csv.writer(f); w.writerow(["premio", "temporada", "nombre"])
-        for premio, titulo in PAGINAS.items():
-            g = ganadores(wikitexto(titulo))
+        texto = wikitexto(PAGINA)
+        for premio, seccion in SECCIONES.items():
+            m = re.search(r"===\s*" + seccion + r"\s*===(.*?)(?=\n===?[^=]|\Z)", texto, re.S)
+            if not m:
+                raise SystemExit(f"no encontré la sección {seccion}")
+            g = ganadores(m.group(1))
+            if len(g) < 15:
+                raise SystemExit(f"muy pocos ganadores en {seccion}: {g}")
             print(premio, g)
             for a, n in g:
                 w.writerow([premio, a, n])
