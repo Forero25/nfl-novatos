@@ -32,4 +32,4 @@ jobs:
           git add resultados publicado
           git diff --cached --quiet && exit 0
           git commit -m "Resultados semanales $(date -u +%F)"
-          git pull --rebase -X ours origin main && git push
+          git pull --rebase -X theirs origin main && git push
