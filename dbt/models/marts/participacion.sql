@@ -13,7 +13,9 @@ select jt.temporada, p.jugador, jt.pfr_id, any_value(p.nombre) nombre, any_value
        sum(partidos_j) partidos, sum(of_j) snaps_of, sum(def_j) snaps_def, sum(esp_j) snaps_esp,
        sum(of_j) / any_value(l.of_pp * l.partidos) as part_of,
        sum(def_j) / any_value(l.def_pp * l.partidos) as part_def,
-       greatest(sum(of_j) / any_value(l.of_pp * l.partidos), sum(def_j) / any_value(l.def_pp * l.partidos)) as participacion,
+       -- el denominador usa el promedio de snaps por partido de la liga; quien juega todo en un equipo con más jugadas que
+       -- el promedio puede pasar de 1, así que se recorta en 1 (temporada completa)
+       least(1, greatest(sum(of_j) / any_value(l.of_pp * l.partidos), sum(def_j) / any_value(l.def_pp * l.partidos))) as participacion,
        case when sum(of_j) >= sum(def_j) then 'ofensiva' else 'defensa' end as lado
 from jt join liga l using (temporada)
 left join {{ ref('stg_jugadores') }} p on p.pfr_id = jt.pfr_id

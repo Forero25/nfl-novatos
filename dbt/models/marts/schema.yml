@@ -14,7 +14,7 @@ models:
       - combinacion_unica: { arguments: { columnas: [temporada, pfr_id] } }
     columns:
       - name: participacion
-        data_tests: [{ entre: { arguments: { minimo: 0, maximo: 1.15 } } }]
+        data_tests: [{ entre: { arguments: { minimo: 0, maximo: 1 } } }]
   - name: temporadas
     data_tests:
       - combinacion_unica: { arguments: { columnas: [temporada, jugador] } }

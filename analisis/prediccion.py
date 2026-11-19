@@ -31,7 +31,7 @@ def datos() -> pd.DataFrame:
     d["edad"] = d["edad"].fillna(d["edad"].median())
     for g in GRUPOS:
         d[f"g_{g}"] = (d["grupo"] == g).astype(int)
-    d["participacion"] = d["participacion"].fillna(0).clip(upper=1.1)
+    d["participacion"] = d["participacion"].fillna(0)
     d["partidos"] = d["partidos"].fillna(0)
     pj = d["partidos"].clip(lower=1)
     d["valor_partido"] = d["valor_reemplazo"].fillna(0) / pj
