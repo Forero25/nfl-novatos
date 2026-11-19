@@ -2872,97 +2872,113 @@
      "temporada": 2010,
      "ganador": "Sam Bradford",
      "puesto": 6,
-     "lider_datos": "Colt McCoy"
+     "lider_datos": "Colt McCoy",
+     "lider_pick": 85
     },
     {
      "temporada": 2011,
      "ganador": "Cam Newton",
      "puesto": 1,
-     "lider_datos": "Cam Newton"
+     "lider_datos": "Cam Newton",
+     "lider_pick": 1
     },
     {
      "temporada": 2012,
      "ganador": "Robert Griffin III",
      "puesto": 1,
-     "lider_datos": "Robert Griffin III"
+     "lider_datos": "Robert Griffin III",
+     "lider_pick": 2
     },
     {
      "temporada": 2013,
      "ganador": "Eddie Lacy",
      "puesto": 6,
-     "lider_datos": "Keenan Allen"
+     "lider_datos": "Keenan Allen",
+     "lider_pick": 76
     },
     {
      "temporada": 2014,
      "ganador": "Odell Beckham Jr.",
      "puesto": 1,
-     "lider_datos": "Odell Beckham Jr."
+     "lider_datos": "Odell Beckham Jr.",
+     "lider_pick": 12
     },
     {
      "temporada": 2015,
      "ganador": "Todd Gurley",
      "puesto": 18,
-     "lider_datos": "Jameis Winston"
+     "lider_datos": "Jameis Winston",
+     "lider_pick": 1
     },
     {
      "temporada": 2016,
      "ganador": "Dak Prescott",
      "puesto": 1,
-     "lider_datos": "Dak Prescott"
+     "lider_datos": "Dak Prescott",
+     "lider_pick": 135
     },
     {
      "temporada": 2017,
      "ganador": "Alvin Kamara",
      "puesto": 1,
-     "lider_datos": "Alvin Kamara"
+     "lider_datos": "Alvin Kamara",
+     "lider_pick": 67
     },
     {
      "temporada": 2018,
      "ganador": "Saquon Barkley",
      "puesto": 3,
-     "lider_datos": "Baker Mayfield"
+     "lider_datos": "Baker Mayfield",
+     "lider_pick": 1
     },
     {
      "temporada": 2019,
      "ganador": "Kyler Murray",
      "puesto": 1,
-     "lider_datos": "Kyler Murray"
+     "lider_datos": "Kyler Murray",
+     "lider_pick": 1
     },
     {
      "temporada": 2020,
      "ganador": "Justin Herbert",
      "puesto": 1,
-     "lider_datos": "Justin Herbert"
+     "lider_datos": "Justin Herbert",
+     "lider_pick": 6
     },
     {
      "temporada": 2021,
      "ganador": "Ja'Marr Chase",
      "puesto": 2,
-     "lider_datos": "Mac Jones"
+     "lider_datos": "Mac Jones",
+     "lider_pick": 15
     },
     {
      "temporada": 2022,
      "ganador": "Garrett Wilson",
      "puesto": 22,
-     "lider_datos": "Brock Purdy"
+     "lider_datos": "Brock Purdy",
+     "lider_pick": 262
     },
     {
      "temporada": 2023,
      "ganador": "C. J. Stroud",
      "puesto": 1,
-     "lider_datos": "C.J. Stroud"
+     "lider_datos": "C.J. Stroud",
+     "lider_pick": 2
     },
     {
      "temporada": 2024,
      "ganador": "Jayden Daniels",
      "puesto": 1,
-     "lider_datos": "Jayden Daniels"
+     "lider_datos": "Jayden Daniels",
+     "lider_pick": 2
     },
     {
      "temporada": 2025,
      "ganador": "Tetairoa McMillan",
      "puesto": 10,
-     "lider_datos": "Jaxson Dart"
+     "lider_datos": "Jaxson Dart",
+     "lider_pick": 25
     }
    ],
    "primero": 9,
@@ -2977,97 +2993,113 @@
      "temporada": 2010,
      "ganador": "Ndamukong Suh",
      "puesto": 3,
-     "lider_datos": "Devin McCourty"
+     "lider_datos": "Devin McCourty",
+     "lider_pick": 27
     },
     {
      "temporada": 2011,
      "ganador": "Von Miller",
      "puesto": 1,
-     "lider_datos": "Von Miller"
+     "lider_datos": "Von Miller",
+     "lider_pick": 2
     },
     {
      "temporada": 2012,
      "ganador": "Luke Kuechly",
      "puesto": 9,
-     "lider_datos": "Janoris Jenkins"
+     "lider_datos": "Janoris Jenkins",
+     "lider_pick": 39
     },
     {
      "temporada": 2013,
      "ganador": "Sheldon Richardson",
      "puesto": 11,
-     "lider_datos": "Alec Ogletree"
+     "lider_datos": "Alec Ogletree",
+     "lider_pick": 30
     },
     {
      "temporada": 2014,
      "ganador": "Aaron Donald",
      "puesto": 1,
-     "lider_datos": "Aaron Donald"
+     "lider_datos": "Aaron Donald",
+     "lider_pick": 13
     },
     {
      "temporada": 2015,
      "ganador": "Marcus Peters",
      "puesto": 1,
-     "lider_datos": "Marcus Peters"
+     "lider_datos": "Marcus Peters",
+     "lider_pick": 18
     },
     {
      "temporada": 2016,
      "ganador": "Joey Bosa",
      "puesto": 4,
-     "lider_datos": "Deion Jones"
+     "lider_datos": "Deion Jones",
+     "lider_pick": 52
     },
     {
      "temporada": 2017,
      "ganador": "Marshon Lattimore",
      "puesto": 3,
-     "lider_datos": "Tre'Davious White"
+     "lider_datos": "Tre'Davious White",
+     "lider_pick": 27
     },
     {
      "temporada": 2018,
      "ganador": "Shaquille Leonard",
      "puesto": 1,
-     "lider_datos": "Shaquille Leonard"
+     "lider_datos": "Shaquille Leonard",
+     "lider_pick": 36
     },
     {
      "temporada": 2019,
      "ganador": "Nick Bosa",
      "puesto": 2,
-     "lider_datos": "Maxx Crosby"
+     "lider_datos": "Maxx Crosby",
+     "lider_pick": 106
     },
     {
      "temporada": 2020,
      "ganador": "Chase Young",
      "puesto": 1,
-     "lider_datos": "Chase Young"
+     "lider_datos": "Chase Young",
+     "lider_pick": 2
     },
     {
      "temporada": 2021,
      "ganador": "Micah Parsons",
      "puesto": 1,
-     "lider_datos": "Micah Parsons"
+     "lider_datos": "Micah Parsons",
+     "lider_pick": 12
     },
     {
      "temporada": 2022,
      "ganador": "Sauce Gardner",
      "puesto": 2,
-     "lider_datos": "Aidan Hutchinson"
+     "lider_datos": "Aidan Hutchinson",
+     "lider_pick": 2
     },
     {
      "temporada": 2023,
      "ganador": "Will Anderson Jr.",
      "puesto": 9,
-     "lider_datos": "Devon Witherspoon"
+     "lider_datos": "Devon Witherspoon",
+     "lider_pick": 5
     },
     {
      "temporada": 2024,
      "ganador": "Jared Verse",
      "puesto": 11,
-     "lider_datos": "Tykee Smith"
+     "lider_datos": "Tykee Smith",
+     "lider_pick": 89
     },
     {
      "temporada": 2025,
      "ganador": "Carson Schwesinger",
      "puesto": 2,
-     "lider_datos": "James Pearce Jr."
+     "lider_datos": "James Pearce Jr.",
+     "lider_pick": 26
     }
    ],
    "primero": 6,

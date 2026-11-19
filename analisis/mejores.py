@@ -56,7 +56,8 @@ def validar(t: pd.DataFrame, premios: pd.DataFrame) -> dict:
             pos = n.index[n["clave"] == normalizar(p.nombre)]
             filas.append({"temporada": int(p.temporada), "ganador": p.nombre,
                           "puesto": int(pos[0]) + 1 if len(pos) else None,
-                          "lider_datos": n.loc[0, "nombre"] if len(n) else None})
+                          "lider_datos": n.loc[0, "nombre"] if len(n) else None,
+                          "lider_pick": n.loc[0, "pick"] if len(n) else None})
         f = pd.DataFrame(filas)
         ok = f["puesto"].dropna()
         out[premio] = {"filas": registros(f), "primero": int((ok == 1).sum()), "top3": int((ok <= 3).sum()),
