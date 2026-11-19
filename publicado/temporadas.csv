@@ -5811,7 +5811,7 @@ temporada,jugador,nombre,posicion,equipo,ronda,pick,drafteado,anio_carrera,parti
 2014,00-0024030,Tom Johnson,DT,MIN,,,False,4,16.0,0.4077,,,,,,7,7.2828,0.006,DL
 2014,00-0024061,Tramon Williams,CB,GB,,,False,9,16.0,0.9472,,,,,,13,19.2246,0.067,DB
 2014,00-0024102,Tony McDaniel,DT,SEA,,,False,9,16.0,0.375,,,,,,2,2.0661,0.016,DL
-2014,00-0024103,Montell Owens,FB,DET,,,False,9,6.0,0.0009,,,,,,,,0.001,RB
+2014,00-0024103,Montell Owens,FB,CHI,,,False,9,6.0,0.0009,,,,,,,,0.001,RB
 2014,00-0024110,Steve Weatherford,P,NYG,,,False,9,16.0,0.0,,,,,,,,0.015,ST
 2014,00-0024183,Brent Grimes,CB,MIA,,,False,8,16.0,0.9472,,,,,,14,30.1965,0.027,DB
 2014,00-0024193,Willie Colon,G,NYJ,4,131,True,9,16.0,1.007,,,,,,,,0.015,OL
@@ -5990,7 +5990,7 @@ temporada,jugador,nombre,posicion,equipo,ronda,pick,drafteado,anio_carrera,parti
 2014,00-0025980,Brian De La Puente,C,CHI,,,False,7,8.0,0.455,,,,,,,,0.006,OL
 2014,00-0025999,David Hawthorne,LB,NO,,,False,7,12.0,0.6938,,,,,,11,11.6808,0.026,LB
 2014,00-0026003,Dan Carpenter,K,BUF,,,False,7,16.0,0.0,,,,,,,,0.012,ST
-2014,00-0026008,Matthew Mulligan,TE,TEN,,,False,7,4.0,0.0541,,,,,,,,0.0,TE
+2014,00-0026008,Matthew Mulligan,TE,CHI,,,False,7,4.0,0.0541,,,,,,,,0.0,TE
 2014,00-0026016,Ropati Pitoitua,DE,TEN,,,False,7,12.0,0.3647,,,,,,7,6.1992,0.014,DL
 2014,00-0026019,Danny Woodhead,RB,SD,,,False,7,3.0,0.0634,21.0,-1.6923,-0.0806,0.4762,-0.5005,,,0.017,RB
 2014,00-0026027,J.J. Jansen,LS,CAR,,,False,7,16.0,0.0,,,,,,,,0.007,ST
@@ -6442,7 +6442,7 @@ temporada,jugador,nombre,posicion,equipo,ronda,pick,drafteado,anio_carrera,parti
 2014,00-0027889,Jason Worilds,LB,PIT,2,52,True,5,16.0,0.9145,,,,,,14,21.5791,0.073,LB
 2014,00-0027890,Ben Tate,RB,CLE,2,58,True,5,11.0,0.2639,131.0,-27.1021,-0.2069,0.2748,-19.6678,,,,RB
 2014,00-0027891,Golden Tate,WR,DET,2,60,True,5,16.0,0.8624,149.0,46.0356,0.309,0.5503,39.153,,,0.023,WR
-2014,00-0027893,Damian Williams,WR,MIA,3,77,True,5,4.0,0.0009,1.0,1.8082,1.8082,1.0,1.762,,,,WR
+2014,00-0027893,Damian Williams,WR,STL,3,77,True,5,4.0,0.0009,1.0,1.8082,1.8082,1.0,1.762,,,,WR
 2014,00-0027902,Dez Bryant,WR,DAL,1,24,True,5,16.0,0.8373,136.0,61.3828,0.4513,0.5515,55.1007,,,0.023,WR
 2014,00-0027904,Rolando McClain,LB,DAL,1,8,True,5,13.0,0.5919,,,,,,14,16.0519,0.005,LB
 2014,00-0027905,Will Tukuafu,FB,SEA,,,False,5,9.0,0.1305,3.0,0.7914,0.2638,0.6667,0.9616,,,0.003,RB
@@ -7454,7 +7454,7 @@ temporada,jugador,nombre,posicion,equipo,ronda,pick,drafteado,anio_carrera,parti
 2014,00-0031182,Kevin Pamphile,T,TB,5,149,True,1,7.0,0.111,,,,,,,,0.003,OL
 2014,00-0031187,Robert Herron,WR,TB,6,185,True,1,8.0,0.1082,13.0,0.3009,0.0231,0.3846,-0.2996,,,0.003,WR
 2014,00-0031191,Luke Bowanko,C,JAX,6,205,True,1,16.0,0.8596,,,,,,,,0.003,OL
-2014,00-0031192,Jemea Thomas,CB,STL,6,206,True,1,2.0,0.0,,,,,,,,0.001,DB
+2014,00-0031192,Jemea Thomas,CB,TEN,6,206,True,1,2.0,0.0,,,,,,,,0.001,DB
 2014,00-0031193,Dan McCullers,NT,PIT,6,215,True,1,9.0,0.0589,,,,,,,,0.003,DL
 2014,00-0031197,David Foucault,T,CAR,,,False,1,5.0,0.1193,,,,,,,,0.003,OL
 2014,00-0031203,Cairo Santos,K,KC,,,False,1,16.0,0.0,,,,,,,,0.003,ST
@@ -8046,7 +8046,7 @@ temporada,jugador,nombre,posicion,equipo,ronda,pick,drafteado,anio_carrera,parti
 2015,00-0027062,Chris Owens,CB,NO,3,90,True,7,4.0,0.0129,,,,,,,,0.001,DB
 2015,00-0027064,Jerraud Powers,CB,ARI,3,92,True,7,13.0,0.724,,,,,,12,8.167,0.036,DB
 2015,00-0027067,Rashad Johnson,FS,ARI,3,95,True,7,14.0,0.7803,,,,,,9,18.3721,0.014,DB
-2015,00-0027069,Chase Coffman,TE,TEN,3,98,True,7,2.0,0.0673,11.0,3.625,0.3295,0.5455,3.0936,,,0.001,TE
+2015,00-0027069,Chase Coffman,TE,SEA,3,98,True,7,2.0,0.0673,11.0,3.625,0.3295,0.5455,3.0936,,,0.001,TE
 2015,00-0027077,Brian Hartline,WR,CLE,4,108,True,7,12.0,0.4735,77.0,14.0077,0.1819,0.4805,12.9457,,,0.014,WR
 2015,00-0027078,T.J. Lang,G,GB,4,109,True,7,15.0,0.9508,,,,,,,,0.038,OL
 2015,00-0027081,Glover Quin,FS,DET,4,112,True,7,16.0,0.88,,,,,,5,17.9853,0.025,DB
@@ -8376,7 +8376,7 @@ temporada,jugador,nombre,posicion,equipo,ronda,pick,drafteado,anio_carrera,parti
 2015,00-0028368,Spencer Paysinger,LB,MIA,,,False,5,14.0,0.0665,,,,,,,,0.004,LB
 2015,00-0028374,Kyle Nelson,LS,SF,,,False,5,16.0,0.0,,,,,,,,0.005,ST
 2015,00-0028394,Jake McQuaide,LS,STL,,,False,5,16.0,0.0,,,,,,,,0.006,ST
-2015,00-0028409,DuJuan Harris,RB,SF,,,False,5,4.0,0.0894,62.0,-4.0155,-0.0648,0.3387,0.0101,,,0.001,RB
+2015,00-0028409,DuJuan Harris,RB,SEA,,,False,5,4.0,0.0894,62.0,-4.0155,-0.0648,0.3387,0.0101,,,0.001,RB
 2015,00-0028411,Dontrelle Inman,WR,SD,,,False,2,14.0,0.6366,63.0,22.596,0.3587,0.4921,21.7271,,,0.004,WR
 2015,00-0028415,Kyle Miller,TE,SD,,,False,4,2.0,0.0064,,,,,,,,,TE
 2015,00-0028424,Cedric Thornton,DE,PHI,,,False,5,13.0,0.4543,,,,,,5,3.9813,0.015,DL
@@ -8483,7 +8483,7 @@ temporada,jugador,nombre,posicion,equipo,ronda,pick,drafteado,anio_carrera,parti
 2015,00-0029205,Travaris Cadet,RB,SF,,,False,4,7.0,0.1078,34.0,4.4669,0.1314,0.5,6.6745,,,0.001,RB
 2015,00-0029208,Tyrunn Walker,DT,DET,,,False,4,4.0,0.1625,,,,,,1,1.0348,0.012,DL
 2015,00-0029212,Tahir Whitehead,LB,DET,5,138,True,4,16.0,0.5402,,,,,,13,14.5974,0.005,LB
-2015,00-0029214,Shaun Prater,CB,MIN,5,156,True,4,2.0,0.0065,,,,,,,,,DB
+2015,00-0029214,Shaun Prater,CB,IND,5,156,True,4,2.0,0.0065,,,,,,,,,DB
 2015,00-0029215,George Iloka,SS,CIN,5,167,True,4,12.0,0.5938,,,,,,6,9.8361,0.01,DB
 2015,00-0029217,Travis Lewis,LB,DET,7,223,True,4,15.0,0.1274,,,,,,2,2.0995,0.005,LB
 2015,00-0029234,Kellen Moore,QB,DAL,,,False,4,3.0,0.1539,109.0,0.1412,0.0013,0.4771,7.3779,,,0.001,QB
@@ -8745,7 +8745,7 @@ temporada,jugador,nombre,posicion,equipo,ronda,pick,drafteado,anio_carrera,parti
 2015,00-0030089,Luke Willson,TE,SEA,5,158,True,3,14.0,0.4155,26.0,6.6779,0.2568,0.5,5.4219,,,0.004,TE
 2015,00-0030090,Micah Hyde,FS,GB,5,159,True,3,15.0,0.5975,,,,,,7,15.6298,0.004,DB
 2015,00-0030092,Sam Martin,P,DET,5,165,True,3,16.0,0.0,,,,,,,,0.004,ST
-2015,00-0030093,Josh Boyd,NT,GB,5,167,True,3,2.0,0.024,,,,,,,,0.004,DL
+2015,00-0030093,Josh Boyd,DE,GB,5,167,True,3,2.0,0.024,,,,,,,,0.004,DL
 2015,00-0030094,Eric Kush,G,STL,6,170,True,3,7.0,0.0,,,,,,,,0.002,OL
 2015,00-0030095,Corey Fuller,WR,DET,6,171,True,3,12.0,0.1557,9.0,1.9148,0.2128,0.4444,1.7907,,,0.004,WR
 2015,00-0030098,Dustin Hopkins,K,WAS,6,177,True,3,15.0,0.0,,,,,,,,0.003,ST
@@ -10956,7 +10956,7 @@ temporada,jugador,nombre,posicion,equipo,ronda,pick,drafteado,anio_carrera,parti
 2016,00-0031581,Mark Glowinski,G,SEA,4,134,True,2,16.0,0.9861,,,,,,,,0.004,OL
 2016,00-0031583,Grady Jarrett,DT,ATL,5,137,True,2,16.0,0.5885,,,,,,4,4.2217,0.004,DL
 2016,00-0031584,Adrian Amos,FS,CHI,5,142,True,2,15.0,0.8771,,,,,,8,7.4048,0.004,DB
-2016,00-0031585,MyCole Pruitt,TE,MIN,5,143,True,2,4.0,0.0382,2.0,0.3027,0.1514,1.0,-0.1935,,,0.001,TE
+2016,00-0031585,MyCole Pruitt,TE,CHI,5,143,True,2,4.0,0.0382,2.0,0.3027,0.1514,1.0,-0.1935,,,0.001,TE
 2016,00-0031586,Mykkele Thompson,FS,NYG,5,144,True,2,1.0,0.0,,,,,,,,0.002,DB
 2016,00-0031587,Bobby McCain,CB,MIA,5,145,True,2,16.0,0.5791,,,,,,10,16.1926,0.004,DB
 2016,00-0031588,Stefon Diggs,WR,MIN,5,146,True,2,13.0,0.6463,115.0,38.9338,0.3386,0.6174,26.085,,,0.004,WR
@@ -11707,7 +11707,7 @@ temporada,jugador,nombre,posicion,equipo,ronda,pick,drafteado,anio_carrera,parti
 2017,00-0026205,John Greco,G,NYG,3,65,True,10,6.0,0.0988,,,,,,,,0.002,OL
 2017,00-0026206,Kendall Langford,DE,HOU,3,66,True,10,1.0,0.0,,,,,,,,,DL
 2017,00-0026213,Jamaal Charles,RB,DEN,3,73,True,10,14.0,0.1939,97.0,-14.9998,-0.1546,0.3402,-8.4488,,,0.012,RB
-2017,00-0026217,Pat Sims,NT,CIN,3,77,True,10,14.0,0.2871,,,,,,4,3.389,0.002,DL
+2017,00-0026217,Pat Sims,DT,CIN,3,77,True,10,14.0,0.2871,,,,,,4,3.389,0.002,DL
 2017,00-0026224,Harry Douglas,WR,TEN,3,84,True,10,2.0,0.0216,3.0,-4.845,-1.615,0.0,-5.0265,,,0.012,WR
 2017,00-0026232,Cliff Avril,DE,SEA,3,92,True,10,4.0,0.1426,,,,,,1,1.4916,0.033,DL
 2017,00-0026240,Tyvon Branch,SS,ARI,4,100,True,10,9.0,0.5468,,,,,,10,7.8815,0.014,DB
@@ -12437,7 +12437,7 @@ temporada,jugador,nombre,posicion,equipo,ronda,pick,drafteado,anio_carrera,parti
 2017,00-0031017,Dakota Dozier,G,NYJ,4,137,True,4,14.0,0.2343,,,,,,,,0.005,OL
 2017,00-0031018,Jeremiah George,LB,IND,5,154,True,4,16.0,0.1709,,,,,,2,2.3344,0.004,LB
 2017,00-0031019,Corey Linsley,C,GB,5,161,True,4,16.0,0.9853,,,,,,,,0.022,OL
-2017,00-0031020,Keith Reaser,CB,SF,5,170,True,4,2.0,0.0472,,,,,,3,1.3676,0.001,DB
+2017,00-0031020,Keith Reaser,CB,KC,5,170,True,4,2.0,0.0472,,,,,,3,1.3676,0.001,DB
 2017,00-0031021,Jared Abbrederis,WR,DET,5,176,True,4,7.0,0.1101,7.0,0.5105,0.0729,0.4286,0.0871,,,,WR
 2017,00-0031022,Laurent Duvernay-Tardif,G,KC,6,200,True,4,11.0,0.5948,,,,,,,,0.016,OL
 2017,00-0031025,Michael Campanaro,WR,BAL,7,218,True,4,13.0,0.2466,32.0,7.2929,0.2279,0.5938,5.3571,,,0.007,WR
@@ -12671,7 +12671,7 @@ temporada,jugador,nombre,posicion,equipo,ronda,pick,drafteado,anio_carrera,parti
 2017,00-0031587,Bobby McCain,CB,MIA,5,145,True,3,16.0,0.6251,,,,,,9,11.8497,0.004,DB
 2017,00-0031588,Stefon Diggs,WR,MIN,5,146,True,3,14.0,0.7341,103.0,39.8685,0.3871,0.534,33.6378,,,0.004,WR
 2017,00-0031589,Brett Hundley,QB,GB,5,147,True,3,11.0,0.5863,379.0,-47.4913,-0.1253,0.4169,-14.6092,,,0.004,QB
-2017,00-0031590,Jay Ajayi,RB,PHI,5,149,True,3,14.0,0.4771,242.0,-24.0806,-0.0995,0.343,-7.7369,,,0.002,RB
+2017,00-0031590,Jay Ajayi,RB,MIA,5,149,True,3,14.0,0.4771,242.0,-24.0806,-0.0995,0.343,-7.7369,,,0.002,RB
 2017,00-0031592,David Parry,DT,NO,5,151,True,3,1.0,0.0028,,,,,,,,0.002,DL
 2017,00-0031595,Michael Burton,FB,CHI,5,168,True,3,16.0,0.1685,8.0,-2.4296,-0.3037,0.375,-1.8893,,,0.004,RB
 2017,00-0031596,David Mayo,LB,CAR,5,169,True,3,16.0,0.1256,,,,,,1,0.3761,0.004,LB
@@ -13159,7 +13159,7 @@ temporada,jugador,nombre,posicion,equipo,ronda,pick,drafteado,anio_carrera,parti
 2017,00-0033001,Trae Elston,SS,BUF,,,False,2,14.0,0.0935,,,,,,1,3.2318,0.0,DB
 2017,00-0033006,Jaydon Mickens,WR,JAX,,,False,2,10.0,0.0969,11.0,4.0201,0.3655,0.4545,3.3546,,,0.001,WR
 2017,00-0033009,Tyler Boyd,WR,CIN,2,55,True,2,10.0,0.2889,32.0,5.2364,0.1636,0.5625,3.3006,,,0.006,WR
-2017,00-0033010,Sheldon Day,DT,JAX,4,103,True,2,12.0,0.3022,,,,,,7,6.1185,0.001,DL
+2017,00-0033010,Sheldon Day,DT,SF,4,103,True,2,12.0,0.3022,,,,,,7,6.1185,0.001,DL
 2017,00-0033011,Connor McGovern,C,DEN,5,144,True,2,15.0,0.3934,,,,,,,,0.004,OL
 2017,00-0033024,Branden Jackson,DE,SEA,,,False,2,12.0,0.2484,,,,,,3,2.3174,0.002,DL
 2017,00-0033025,Jalen Richard,RB,OAK,,,False,2,16.0,0.2033,92.0,1.1905,0.0129,0.3804,7.4038,,,0.003,RB
@@ -13918,7 +13918,7 @@ temporada,jugador,nombre,posicion,equipo,ronda,pick,drafteado,anio_carrera,parti
 2018,00-0029087,Leonard Johnson,CB,ARI,,,False,7,6.0,0.0834,,,,,,,,,DB
 2018,00-0029091,Bradley Sowell,T,CHI,,,False,7,16.0,0.0473,,,,,,,,0.006,OL
 2018,00-0029111,Derrick Shelby,DE,ATL,,,False,7,7.0,0.128,,,,,,1,0.6944,0.011,DL
-2018,00-0029112,Jacquies Smith,DE,OAK,,,False,7,6.0,0.0626,,,,,,,,0.002,DL
+2018,00-0029112,Jacquies Smith,DE,ARI,,,False,7,6.0,0.0626,,,,,,,,0.002,DL
 2018,00-0029119,Derek Carrier,TE,OAK,,,False,7,16.0,0.2193,12.0,-0.8572,-0.0714,0.5833,-5.0626,,,0.011,TE
 2018,00-0029123,Marquette King,P,DEN,,,False,7,4.0,0.0,,,,,,,,,ST
 2018,00-0029129,Rod Streater,WR,CLE,,,False,7,3.0,0.0217,1.0,-0.7359,-0.7359,0.0,-0.8986,,,0.002,WR
@@ -14044,7 +14044,7 @@ temporada,jugador,nombre,posicion,equipo,ronda,pick,drafteado,anio_carrera,parti
 2018,00-0029795,Benny Cunningham,RB,CHI,,,False,6,15.0,0.035,13.0,-8.2323,-0.6333,0.3077,-7.2671,,,0.006,RB
 2018,00-0029799,Lerentee McCray,DE,JAX,,,False,6,13.0,0.0948,,,,,,1,0.6902,0.012,DL
 2018,00-0029822,Brandon McManus,K,DEN,,,False,5,16.0,0.0,,,,,,,,0.019,ST
-2018,00-0029848,Nick Williams,WR,LA,,,False,6,4.0,0.0652,5.0,-2.9375,-0.5875,0.4,-3.7513,,,,WR
+2018,00-0029848,Nick Williams,WR,TEN,,,False,6,4.0,0.0652,5.0,-2.9375,-0.5875,0.4,-3.7513,,,,WR
 2018,00-0029854,C.J. Anderson,RB,CAR,,,False,6,11.0,0.1437,76.0,5.046,0.0664,0.5658,10.6889,,,0.001,RB
 2018,00-0029869,Will Compton,LB,TEN,,,False,6,12.0,0.0749,,,,,,1,0.4738,0.006,LB
 2018,00-0029879,Kevin McDermott,LS,MIN,,,False,6,16.0,0.0,,,,,,,,0.005,ST
@@ -14412,7 +14412,7 @@ temporada,jugador,nombre,posicion,equipo,ronda,pick,drafteado,anio_carrera,parti
 2018,00-0031500,Efe Obada,DE,CAR,,,False,4,10.0,0.1773,,,,,,4,4.6582,0.003,DL
 2018,00-0031502,Jordan Berry,P,PIT,,,False,4,16.0,0.0,,,,,,,,,ST
 2018,00-0031503,Jameis Winston,QB,TB,1,1,True,4,11.0,0.6505,446.0,64.1986,0.1439,0.5045,83.3963,,,0.041,QB
-2018,00-0031512,Jermaine Whitehead,FS,CLE,,,False,4,14.0,0.2152,,,,,,4,3.6992,0.001,DB
+2018,00-0031512,Jermaine Whitehead,FS,GB,,,False,4,14.0,0.2152,,,,,,4,3.6992,0.001,DB
 2018,00-0031534,La'el Collins,T,DAL,,,False,4,16.0,1.0164,,,,,,,,0.031,OL
 2018,00-0031544,Amari Cooper,WR,DAL,1,4,True,4,15.0,0.7885,109.0,25.7238,0.236,0.5963,7.9838,,,0.002,WR
 2018,00-0031545,Kevin White,WR,CHI,1,7,True,4,9.0,0.1607,8.0,-0.5737,-0.0717,0.375,-1.8757,,,0.028,WR
@@ -14483,7 +14483,7 @@ temporada,jugador,nombre,posicion,equipo,ronda,pick,drafteado,anio_carrera,parti
 2018,00-0031734,Chris Reed,G,JAX,,,False,4,9.0,0.1683,,,,,,,,0.003,OL
 2018,00-0031740,Neville Hewitt,LB,NYJ,,,False,4,16.0,0.2531,,,,,,2,1.6671,0.004,LB
 2018,00-0031744,Matt LaCosse,TE,DEN,,,False,4,15.0,0.3952,37.0,7.5234,0.2033,0.5676,-5.4433,,,0.003,TE
-2018,00-0031763,DeAndre Carter,WR,PHI,,,False,4,14.0,0.2685,26.0,5.4155,0.2083,0.5385,1.1839,,,0.001,WR
+2018,00-0031763,DeAndre Carter,WR,HOU,,,False,4,14.0,0.2685,26.0,5.4155,0.2083,0.5385,1.1839,,,0.001,WR
 2018,00-0031764,Blaine Clausell,T,ARI,,,False,4,2.0,0.0019,,,,,,,,,OL
 2018,00-0031779,B.J. Finney,C,PIT,,,False,4,16.0,0.1551,,,,,,,,0.003,OL
 2018,00-0031782,Eli Rogers,WR,PIT,,,False,4,3.0,0.1031,15.0,-0.7677,-0.0512,0.4667,-3.209,,,0.002,WR
@@ -14599,7 +14599,7 @@ temporada,jugador,nombre,posicion,equipo,ronda,pick,drafteado,anio_carrera,parti
 2018,00-0032164,Arik Armstead,DE,SF,1,17,True,4,16.0,0.5764,,,,,,6,5.7406,0.013,DL
 2018,00-0032165,Marcus Peters,CB,LA,1,18,True,4,16.0,0.8674,,,,,,8,17.7823,0.01,DB
 2018,00-0032166,Sammie Coates,WR,HOU,3,87,True,4,12.0,0.035,2.0,0.2111,0.1055,0.5,-0.1144,,,,WR
-2018,00-0032168,Josh Shaw,CB,KC,4,120,True,4,8.0,0.0948,,,,,,,,0.001,DB
+2018,00-0032168,Josh Shaw,CB,TB,4,120,True,4,8.0,0.0948,,,,,,,,0.001,DB
 2018,00-0032170,Rashad Greene,WR,JAX,5,139,True,4,8.0,0.1012,8.0,0.5565,0.0696,0.625,-0.7455,,,0.002,WR
 2018,00-0032171,Hayes Pullard,LB,LAC,7,219,True,4,9.0,0.0863,,,,,,1,0.882,0.002,LB
 2018,00-0032187,David Johnson,RB,ARI,3,86,True,4,16.0,0.7081,334.0,-54.8008,-0.1641,0.3144,-30.0015,,,0.028,RB
@@ -16273,7 +16273,7 @@ temporada,jugador,nombre,posicion,equipo,ronda,pick,drafteado,anio_carrera,parti
 2019,00-0031596,David Mayo,LB,NYG,5,169,True,5,16.0,0.5918,,,,,,10,7.2658,0.004,LB
 2019,00-0031597,Tye Smith,CB,TEN,5,170,True,5,9.0,0.196,,,,,,2,10.5839,0.005,DB
 2019,00-0031598,Nick Boyle,TE,BAL,5,171,True,5,16.0,0.7173,43.0,11.1667,0.2597,0.6047,3.0146,,,0.018,TE
-2019,00-0031608,Quandre Diggs,SS,SEA,6,200,True,5,10.0,0.5683,,,,,,4,18.604,0.008,DB
+2019,00-0031608,Quandre Diggs,SS,DET,6,200,True,5,10.0,0.5683,,,,,,4,18.604,0.008,DB
 2019,00-0031610,Darren Waller,TE,OAK,6,204,True,5,16.0,0.8612,119.0,39.6483,0.3332,0.6303,17.088,,,0.017,TE
 2019,00-0031619,Christian Covington,DE,DAL,6,216,True,5,16.0,0.4511,,,,,,5,4.6055,0.008,DL
 2019,00-0031621,Jake Rodgers,T,DEN,7,225,True,5,14.0,0.1102,,,,,,,,0.002,OL
@@ -16304,7 +16304,7 @@ temporada,jugador,nombre,posicion,equipo,ronda,pick,drafteado,anio_carrera,parti
 2019,00-0031876,Matt Wile,P,ATL,,,False,4,2.0,0.0,,,,,,,,,ST
 2019,00-0031893,Jesse Davis,T,MIA,,,False,4,15.0,0.9097,,,,,,,,0.008,OL
 2019,00-0031898,Alex Singleton,LB,PHI,,,False,5,10.0,0.0,,,,,,,,0.002,LB
-2019,00-0031900,Rod Smith,RB,TEN,,,False,5,6.0,0.0009,,,,,,,,0.001,RB
+2019,00-0031900,Rod Smith,RB,OAK,,,False,5,6.0,0.0009,,,,,,,,0.001,RB
 2019,00-0031911,Rick Lovato,LS,PHI,,,False,5,16.0,0.0009,,,,,,,,0.004,ST
 2019,00-0031914,Olsen Pierre,DE,NYG,,,False,5,9.0,0.1613,,,,,,3,4.1314,0.001,DL
 2019,00-0031921,Kendall Lamm,T,CLE,,,False,5,4.0,0.0766,,,,,,,,0.01,OL
@@ -16842,7 +16842,7 @@ temporada,jugador,nombre,posicion,equipo,ronda,pick,drafteado,anio_carrera,parti
 2019,00-0033859,Josh Malone,WR,NYJ,4,128,True,3,2.0,0.0196,,,,,,,,,WR
 2019,00-0033860,Davon Godchaux,DT,MIA,5,178,True,3,16.0,0.6724,,,,,,7,5.7054,0.004,DL
 2019,00-0033862,Zane Gonzalez,K,ARI,7,224,True,3,16.0,0.0,,,,,,,,0.003,ST
-2019,00-0033863,Dan Skipper,T,HOU,,,False,3,6.0,0.042,,,,,,,,0.0,OL
+2019,00-0033863,Dan Skipper,T,DET,,,False,3,6.0,0.042,,,,,,,,0.0,OL
 2019,00-0033868,Myles Garrett,DE,CLE,1,1,True,3,10.0,0.5111,,,,,,13,15.9531,0.029,DL
 2019,00-0033869,Mitchell Trubisky,QB,CHI,1,2,True,3,15.0,0.8798,591.0,-22.4095,-0.0379,0.4349,34.8175,,,0.041,QB
 2019,00-0033870,Solomon Thomas,DE,SF,1,3,True,3,16.0,0.3976,,,,,,3,2.7906,0.033,DL
@@ -17699,7 +17699,7 @@ temporada,jugador,nombre,posicion,equipo,ronda,pick,drafteado,anio_carrera,parti
 2020,00-0027688,Colt McCoy,QB,NYG,3,85,True,11,4.0,0.135,76.0,-10.6189,-0.1397,0.3421,-9.1451,,,0.011,QB
 2020,00-0027691,Andre Roberts,WR,BUF,3,88,True,11,15.0,0.0577,6.0,-2.0304,-0.3384,0.5,-2.9267,,,0.006,WR
 2020,00-0027696,Jimmy Graham,TE,CHI,3,95,True,11,16.0,0.592,76.0,7.4813,0.0984,0.5,-0.679,,,0.028,TE
-2020,00-0027701,Everson Griffen,DE,DAL,4,100,True,11,14.0,0.4936,,,,,,13,12.8636,0.015,DL
+2020,00-0027701,Everson Griffen,DE,DET,4,100,True,11,14.0,0.4936,,,,,,13,12.8636,0.015,DL
 2020,00-0027720,Geno Atkins,DT,CIN,4,120,True,11,8.0,0.1113,,,,,,,,0.068,DL
 2020,00-0027743,Sherrick McManis,DB,CHI,5,144,True,11,11.0,0.0234,,,,,,1,0.9979,0.004,DB
 2020,00-0027768,Marshall Newhouse,T,TEN,5,169,True,11,4.0,0.0158,,,,,,,,0.001,OL
@@ -17804,7 +17804,7 @@ temporada,jugador,nombre,posicion,equipo,ronda,pick,drafteado,anio_carrera,parti
 2020,00-0029164,Mike Remmers,T,KC,,,False,9,13.0,0.66,,,,,,,,0.004,OL
 2020,00-0029193,Bruce Irvin,LB,SEA,1,15,True,9,2.0,0.1141,,,,,,1,0.5887,0.023,LB
 2020,00-0029212,Tahir Whitehead,LB,CAR,5,138,True,9,14.0,0.3721,,,,,,1,3.8593,0.012,LB
-2020,00-0029215,George Iloka,DB,MIN,5,167,True,9,4.0,0.0421,,,,,,,,0.002,DB
+2020,00-0029215,George Iloka,S,MIN,5,167,True,9,4.0,0.0421,,,,,,,,0.002,DB
 2020,00-0029249,Melvin Ingram,DE,LAC,1,18,True,9,7.0,0.3384,,,,,,2,4.7718,0.082,DL
 2020,00-0029253,Mitchell Schwartz,T,KC,2,37,True,9,6.0,0.3323,,,,,,,,0.049,OL
 2020,00-0029255,Bobby Wagner,LB,SEA,2,47,True,9,16.0,1.0677,,,,,,15,11.5173,0.074,LB
@@ -18339,7 +18339,7 @@ temporada,jugador,nombre,posicion,equipo,ronda,pick,drafteado,anio_carrera,parti
 2020,00-0032543,Alex Erickson,WR,CIN,,,False,5,16.0,0.1843,23.0,-3.2954,-0.1433,0.4783,-6.731,,,0.01,WR
 2020,00-0032549,Alex Redmond,G,CIN,,,False,5,9.0,0.417,,,,,,,,0.003,OL
 2020,00-0032560,Charles Washington,S,ARI,,,False,5,15.0,0.0374,,,,,,1,1.0859,0.004,DB
-2020,00-0032566,Trevon Coley,DT,ARI,,,False,5,6.0,0.1795,,,,,,3,1.7583,0.001,DL
+2020,00-0032566,Trevon Coley,DL,ARI,,,False,5,6.0,0.1795,,,,,,3,1.7583,0.001,DL
 2020,00-0032569,Wil Lutz,K,NO,,,False,5,16.0,0.0,,,,,,,,0.021,ST
 2020,00-0032573,Patrick Onwuasor,LB,NYJ,,,False,5,1.0,0.0,,,,,,,,0.01,LB
 2020,00-0032575,Matt Skura,C/G,BAL,,,False,5,15.0,0.6153,,,,,,,,0.011,otro
@@ -18392,7 +18392,7 @@ temporada,jugador,nombre,posicion,equipo,ronda,pick,drafteado,anio_carrera,parti
 2020,00-0032790,DeAndre Houston-Carson,DB,CHI,6,185,True,5,16.0,0.0851,,,,,,3,6.1353,0.004,DB
 2020,00-0032791,Jakeem Grant,WR,MIA,6,186,True,5,14.0,0.3444,57.0,5.5777,0.0979,0.5088,-2.9368,,,0.02,WR
 2020,00-0032792,Nate Sudfeld,QB,PHI,6,187,True,5,1.0,0.0168,15.0,-3.731,-0.2487,0.2,-3.4401,,,0.008,QB
-2020,00-0032793,Blake Countess,CB,PHI,6,196,True,5,2.0,0.0056,,,,,,,,0.0,DB
+2020,00-0032793,Blake Countess,S,PHI,6,196,True,5,2.0,0.0056,,,,,,,,0.0,DB
 2020,00-0032803,Jalen Mills,S,PHI,7,233,True,5,15.0,0.9471,,,,,,8,8.7581,0.018,DB
 2020,00-0032807,Clayton Fejedelem,S,MIA,7,245,True,5,13.0,0.014,,,,,,,,0.015,DB
 2020,00-0032809,Joe Walker,LB,SF,7,251,True,5,12.0,0.0131,,,,,,,,0.003,LB
@@ -18681,7 +18681,7 @@ temporada,jugador,nombre,posicion,equipo,ronda,pick,drafteado,anio_carrera,parti
 2020,00-0033863,Dan Skipper,T,DET,,,False,4,5.0,0.0084,,,,,,,,0.001,OL
 2020,00-0033868,Myles Garrett,DE,CLE,1,1,True,4,14.0,0.7087,,,,,,19,38.0125,0.044,DL
 2020,00-0033869,Mitchell Trubisky,QB,CHI,1,2,True,4,10.0,0.5306,348.0,33.0543,0.095,0.5287,39.8029,,,0.043,QB
-2020,00-0033870,Solomon Thomas,DE,SF,1,3,True,4,2.0,0.0458,,,,,,,,0.044,DL
+2020,00-0033870,Solomon Thomas,DL,SF,1,3,True,4,2.0,0.0458,,,,,,,,0.044,DL
 2020,00-0033871,Corey Davis,WR,TEN,1,5,True,4,14.0,0.6693,92.0,48.6437,0.5287,0.6196,34.9011,,,0.037,WR
 2020,00-0033872,Jamal Adams,SS,SEA,1,6,True,4,12.0,0.733,,,,,,17,21.214,0.018,DB
 2020,00-0033873,Patrick Mahomes,QB,KC,1,10,True,4,15.0,0.956,657.0,183.4751,0.2793,0.5403,196.2159,,,0.024,QB
@@ -18959,7 +18959,7 @@ temporada,jugador,nombre,posicion,equipo,ronda,pick,drafteado,anio_carrera,parti
 2020,00-0034522,KC McDermott,OL,JAX,,,False,3,7.0,0.0,,,,,,,,0.001,OL
 2020,00-0034523,Quenton Meeks,CB,JAX,,,False,3,6.0,0.0,,,,,,,,,DB
 2020,00-0034527,Ryan Neal,CB,SEA,,,False,3,13.0,0.3674,,,,,,8,11.5599,0.003,DB
-2020,00-0034533,Trayvon Henderson,DB,CIN,,,False,3,4.0,0.0,,,,,,,,0.0,DB
+2020,00-0034533,Trayvon Henderson,S,CIN,,,False,3,4.0,0.0,,,,,,,,0.0,DB
 2020,00-0034540,Tony Brown,CB,CIN,,,False,3,13.0,0.0888,,,,,,3,1.9932,0.004,DB
 2020,00-0034545,Brandon Facyson,CB,LAC,,,False,3,13.0,0.0458,,,,,,,,0.004,DB
 2020,00-0034559,Austin Larkin,DE,CAR,,,False,2,9.0,0.1187,,,,,,1,0.9219,0.002,DL
@@ -19455,7 +19455,7 @@ temporada,jugador,nombre,posicion,equipo,ronda,pick,drafteado,anio_carrera,parti
 2020,00-0035795,James Pierre,CB,PIT,,,False,1,16.0,0.0252,,,,,,1,0.3287,0.003,DB
 2020,00-0035802,Darrion Daniels,DT,SF,,,False,1,4.0,0.0617,,,,,,,,0.0,DL
 2020,00-0035806,JaMycal Hasty,RB,SF,,,False,1,8.0,0.0903,47.0,-1.5013,-0.0319,0.383,0.8955,,,0.002,RB
-2020,00-0035808,Jared Mayden,DB,SF,,,False,1,2.0,0.0,,,,,,,,0.001,DB
+2020,00-0035808,Jared Mayden,S,SF,,,False,1,2.0,0.0,,,,,,,,0.001,DB
 2020,00-0035816,Niko Lalos,DE,NYG,,,False,1,6.0,0.0673,,,,,,1,1.8716,0.001,DL
 2020,00-0035822,Doug Costin,DT,JAX,,,False,1,12.0,0.4254,,,,,,5,3.3348,0.003,DL
 2020,00-0035823,Ben Ellefson,TE,JAX,,,False,1,7.0,0.1238,4.0,-2.6807,-0.6702,0.25,-3.1102,,,0.002,TE
@@ -19537,14 +19537,14 @@ temporada,jugador,nombre,posicion,equipo,ronda,pick,drafteado,anio_carrera,parti
 2020,00-0036078,Xavier Jones,RB,LA,,,False,1,13.0,0.0,,,,,,,,0.003,RB
 2020,00-0036081,Broderick Washington,DT,BAL,5,170,True,1,8.0,0.1505,,,,,,,,0.003,DL
 2020,00-0036084,Madre Harper,CB,NYG,,,False,1,9.0,0.0346,,,,,,,,0.002,DB
-2020,00-0036085,Javin White,LB,LV,,,False,1,4.0,0.0112,,,,,,1,1.0969,0.001,LB
+2020,00-0036085,Javin White,DB,LV,,,False,1,4.0,0.0112,,,,,,1,1.0969,0.001,DB
 2020,00-0036086,Rashod Berry,TE/D,NE,,,False,1,3.0,0.0374,,,,,,,,0.0,otro
 2020,00-0036087,Myles Bryant,DB,NE,,,False,1,9.0,0.1458,,,,,,1,3.785,0.003,DB
 2020,00-0036090,De'Jon Harris,LB,GB,,,False,1,2.0,0.0,,,,,,,,0.001,LB
 2020,00-0036096,J.J. Taylor,RB,NE,,,False,1,6.0,0.0465,25.0,0.5774,0.0231,0.36,1.8523,,,0.003,RB
 2020,00-0036100,Isaiah Zuber,WR,NE,,,False,1,4.0,0.0242,4.0,2.1096,0.5274,0.75,1.5121,,,0.001,WR
 2020,00-0036101,Luq Barcoo,CB,JAX,,,False,1,3.0,0.1421,,,,,,1,1.0538,0.003,DB
-2020,00-0036106,Parnell Motley,CB,TB,,,False,1,4.0,0.0767,,,,,,1,1.2628,0.001,DB
+2020,00-0036106,Parnell Motley,CB,DEN,,,False,1,4.0,0.0767,,,,,,1,1.2628,0.001,DB
 2020,00-0036109,Elijah Benton,DB,CLE,,,False,1,1.0,0.0,,,,,,,,0.001,DB
 2020,00-0036110,Ja'Marcus Bradley,WR,CLE,,,False,1,3.0,0.0856,11.0,0.7743,0.0704,0.3636,-0.8688,,,0.001,WR
 2020,00-0036111,Tony Brown,WR,WAS,,,False,1,1.0,0.0037,,,,,,,,0.0,WR
@@ -19841,7 +19841,7 @@ temporada,jugador,nombre,posicion,equipo,ronda,pick,drafteado,anio_carrera,parti
 2021,00-0026997,Alex Mack,C,SF,1,21,True,13,17.0,0.9618,,,,,,,,0.016,OL
 2021,00-0027061,Jared Cook,TE,LAC,3,89,True,13,16.0,0.5709,83.0,2.899,0.0349,0.494,-19.8607,,,0.024,TE
 2021,00-0027103,Kevin Huber,P,CIN,5,142,True,13,17.0,0.0009,,,,,,,,,ST
-2021,00-0027114,Thomas Morstead,P,ATL,5,164,True,13,14.0,0.0,,,,,,,,0.002,ST
+2021,00-0027114,Thomas Morstead,P,NYJ,5,164,True,13,14.0,0.0,,,,,,,,0.002,ST
 2021,00-0027136,Jason McCourty,FS,MIA,6,203,True,13,7.0,0.2779,,,,,,2,1.163,0.005,DB
 2021,00-0027187,Matt Overton,LS,LAC,,,False,10,17.0,0.0,,,,,,,,0.004,ST
 2021,00-0027224,Jon Weeks,LS,HOU,,,False,12,17.0,0.0,,,,,,,,0.005,ST
@@ -20163,7 +20163,7 @@ temporada,jugador,nombre,posicion,equipo,ronda,pick,drafteado,anio_carrera,parti
 2021,00-0031369,Brandon Linder,G,JAX,3,93,True,8,9.0,0.4893,,,,,,,,0.041,OL
 2021,00-0031372,Bradley Roby,CB,NO,1,31,True,8,14.0,0.3509,,,,,,8,9.5686,0.006,DB
 2021,00-0031376,Jerick McKinnon,RB,KC,3,96,True,8,13.0,0.1525,32.0,0.8579,0.0268,0.4375,2.2732,,,0.004,RB
-2021,00-0031380,Darqueze Dennard,CB,NYG,1,24,True,8,2.0,0.0187,,,,,,,,0.0,DB
+2021,00-0031380,Darqueze Dennard,CB,SF,1,24,True,8,2.0,0.0187,,,,,,,,0.0,DB
 2021,00-0031381,Davante Adams,WR,GB,2,53,True,8,16.0,0.7854,169.0,61.9693,0.3667,0.5858,39.4194,,,0.09,WR
 2021,00-0031382,Jarvis Landry,WR,CLE,2,63,True,8,12.0,0.4725,93.0,-7.6686,-0.0825,0.4946,-20.0777,,,0.07,WR
 2021,00-0031384,Richard Rodgers,TE,PHI,3,98,True,8,3.0,0.0612,2.0,0.0059,0.0029,0.5,-0.5425,,,0.0,TE
@@ -20572,7 +20572,7 @@ temporada,jugador,nombre,posicion,equipo,ronda,pick,drafteado,anio_carrera,parti
 2021,00-0033308,Matt Breida,RB,BUF,,,False,5,9.0,0.0718,35.0,-1.7837,-0.051,0.4857,-0.2357,,,0.005,RB
 2021,00-0033319,Nick Mullens,QB,CLE,,,False,5,1.0,0.0496,29.0,2.4341,0.0839,0.4483,3.1563,,,0.0,QB
 2021,00-0033324,Tashawn Bower,DE,MIN,,,False,5,6.0,0.0588,,,,,,1,1.0282,0.002,DL
-2021,00-0033336,Eric Wilson,LB,PHI,,,False,5,14.0,0.2663,,,,,,2,4.1446,0.003,LB
+2021,00-0033336,Eric Wilson,LB,HOU,,,False,5,14.0,0.2663,,,,,,2,4.1446,0.003,LB
 2021,00-0033338,Cethan Carter,TE,MIA,,,False,5,16.0,0.0461,2.0,0.687,0.3435,1.0,0.1386,,,0.014,TE
 2021,00-0033344,Hardy Nickerson,LB,HOU,,,False,5,2.0,0.008,,,,,,,,0.002,LB
 2021,00-0033347,Josh Tupou,NT,CIN,,,False,5,17.0,0.3652,,,,,,,,0.006,DL
@@ -20743,7 +20743,7 @@ temporada,jugador,nombre,posicion,equipo,ronda,pick,drafteado,anio_carrera,parti
 2021,00-0033926,Shaquill Griffin,CB,JAX,3,90,True,5,14.0,0.7785,,,,,,7,6.6464,0.029,DB
 2021,00-0033927,John Johnson,FS,CLE,3,91,True,5,15.0,0.8061,,,,,,8,13.7151,0.017,DB
 2021,00-0033928,Jourdan Lewis,CB,DAL,3,92,True,5,16.0,0.7143,,,,,,15,19.4296,0.013,DB
-2021,00-0033929,Montravius Adams,DE,PIT,3,93,True,5,10.0,0.2547,,,,,,4,3.1092,0.002,DL
+2021,00-0033929,Montravius Adams,DE,NO,3,93,True,5,10.0,0.2547,,,,,,4,3.1092,0.002,DL
 2021,00-0033930,Cameron Sutton,CB,PIT,3,94,True,5,16.0,0.97,,,,,,11,20.4904,0.009,DB
 2021,00-0033932,Kenny Golladay,WR,NYG,3,96,True,5,14.0,0.5904,76.0,-1.7257,-0.0227,0.4737,-11.8665,,,0.024,WR
 2021,00-0033935,Trey Hendrickson,DE,CIN,3,103,True,5,16.0,0.6386,,,,,,17,28.5081,0.064,DL
@@ -21085,7 +21085,7 @@ temporada,jugador,nombre,posicion,equipo,ronda,pick,drafteado,anio_carrera,parti
 2021,00-0034903,Tevaughn Campbell,CB,LAC,,,False,3,16.0,0.6048,,,,,,6,11.9966,0.004,DB
 2021,00-0034909,Tristan Vizcaino,K,LAC,,,False,2,6.0,0.0,,,,,,,,0.0,ST
 2021,00-0034913,Chris Blewitt,K,WAS,,,False,1,2.0,0.0,,,,,,,,0.0,ST
-2021,00-0034921,Elliott Fry,K,KC,,,False,2,2.0,0.0,,,,,,,,0.0,ST
+2021,00-0034921,Elliott Fry,K,CIN,,,False,2,2.0,0.0,,,,,,,,0.0,ST
 2021,00-0034928,Steven Sims,WR,PIT,,,False,3,1.0,0.0044,,,,,,,,0.001,WR
 2021,00-0034929,Quinn Bailey,T,DEN,,,False,3,4.0,0.0355,,,,,,,,0.0,OL
 2021,00-0034930,Trinity Benson,WR,DET,,,False,3,8.0,0.2473,22.0,-8.0035,-0.3638,0.3182,-10.939,,,0.003,WR
@@ -22177,7 +22177,7 @@ temporada,jugador,nombre,posicion,equipo,ronda,pick,drafteado,anio_carrera,parti
 2022,00-0028924,Tashaun Gipson,FS,SF,,,False,11,17.0,0.9291,,,,,,10,24.4372,0.004,DB
 2022,00-0028946,Aaron Brewer,LS,ARI,,,False,11,15.0,0.0,,,,,,,,0.004,ST
 2022,00-0028986,Case Keenum,QB,BUF,,,False,11,2.0,0.0215,8.0,-5.2383,-0.6548,0.0,-4.6385,,,0.017,QB
-2022,00-0029000,Cole Beasley,WR,TB,,,False,11,4.0,0.0268,7.0,0.2469,0.0353,0.4286,-0.7705,,,0.0,WR
+2022,00-0029000,Cole Beasley,WR,BUF,,,False,11,4.0,0.0268,7.0,0.2469,0.0353,0.4286,-0.7705,,,0.0,WR
 2022,00-0029008,Charley Hughlett,LS,CLE,,,False,9,17.0,0.0,,,,,,,,0.006,ST
 2022,00-0029061,Julian Stanford,LB,BAL,,,False,11,1.0,0.0,,,,,,,,0.0,LB
 2022,00-0029144,Tom Compton,T,DEN,6,193,True,11,1.0,0.0268,,,,,,,,0.01,OL
@@ -22819,7 +22819,7 @@ temporada,jugador,nombre,posicion,equipo,ronda,pick,drafteado,anio_carrera,parti
 2022,00-0034109,Phillip Lindsay,RB,IND,,,False,5,3.0,0.059,23.0,-3.6237,-0.1576,0.2174,-2.3785,,,,RB
 2022,00-0034112,Austin Schlottmann,G,MIN,,,False,5,16.0,0.2101,,,,,,,,0.004,OL
 2022,00-0034114,Coleman Shelton,G,LA,,,False,5,13.0,0.643,,,,,,,,0.007,OL
-2022,00-0034115,Jeff Wilson,RB,SF,,,False,5,16.0,0.4695,212.0,-0.9142,-0.0043,0.4151,10.5633,,,0.003,RB
+2022,00-0034115,Jeff Wilson,RB,MIA,,,False,5,16.0,0.4695,212.0,-0.9142,-0.0043,0.4151,10.5633,,,0.003,RB
 2022,00-0034116,J.T. Gray,SS,NO,,,False,5,14.0,0.0251,,,,,,3,2.673,0.013,DB
 2022,00-0034125,Kendal Vickers,DT,LV,,,False,5,8.0,0.1856,,,,,,,,,DL
 2022,00-0034142,J.C. Hassenauer,C,PIT,,,False,5,17.0,0.0411,,,,,,,,0.004,OL
@@ -26314,7 +26314,7 @@ temporada,jugador,nombre,posicion,equipo,ronda,pick,drafteado,anio_carrera,parti
 2023,00-0038905,Blake Grupe,K,NO,,,False,1,17.0,0.0,,,,,,,,0.003,ST
 2023,00-0038906,Lou Hedley,P,NO,,,False,1,17.0,0.0,,,,,,,,0.003,ST
 2023,00-0038910,SaRodorick Thompson Jr.,RB,SEA,,,False,1,1.0,0.0018,,,,,,,,0.0,RB
-2023,00-0038911,Malik Cunningham,QB,NE,,,False,1,2.0,0.0089,1.0,-1.0452,-1.0452,0.0,-0.9687,,,0.001,QB
+2023,00-0038911,Malik Cunningham,QB,BAL,,,False,1,2.0,0.0089,1.0,-1.0452,-1.0452,0.0,-0.9687,,,0.001,QB
 2023,00-0038914,McClendon Curtis,G,SEA,,,False,1,1.0,0.0,,,,,,,,0.003,OL
 2023,00-0038922,Drake Thomas,LB,SEA,,,False,1,7.0,0.0036,,,,,,,,0.003,LB
 2023,00-0038932,Darnell Wright,T,CHI,1,10,True,1,17.0,1.0112,,,,,,,,0.016,OL
@@ -26984,7 +26984,7 @@ temporada,jugador,nombre,posicion,equipo,ronda,pick,drafteado,anio_carrera,parti
 2024,00-0034791,Nick Chubb,RB,CLE,2,35,True,7,8.0,0.2114,113.0,-28.7435,-0.2544,0.3451,-20.8536,,,0.022,RB
 2024,00-0034794,Jason Sanders,K,MIA,7,229,True,7,17.0,0.0,,,,,,,,0.018,ST
 2024,00-0034796,Lamar Jackson,QB,BAL,1,32,True,7,17.0,0.9661,613.0,186.7922,0.3047,0.5367,202.0996,,,0.128,QB
-2024,00-0034797,Jerome Baker,LB,SEA,3,73,True,7,10.0,0.512,,,,,,9,14.6248,0.007,LB
+2024,00-0034797,Jerome Baker,LB,TEN,3,73,True,7,10.0,0.512,,,,,,9,14.6248,0.007,LB
 2024,00-0034798,Durham Smythe,TE,MIA,4,123,True,7,17.0,0.3274,17.0,-3.7782,-0.2222,0.2353,-7.6594,,,0.013,TE
 2024,00-0034800,B.J. Hill,DT,CIN,3,69,True,7,15.0,0.6423,,,,,,11,9.7098,0.041,DL
 2024,00-0034801,Josh Woods,LB,ATL,,,False,7,5.0,0.0,,,,,,,,0.0,LB
@@ -27072,7 +27072,7 @@ temporada,jugador,nombre,posicion,equipo,ronda,pick,drafteado,anio_carrera,parti
 2024,00-0035157,Darius Harris,LB,DAL,,,False,6,4.0,0.0,,,,,,,,0.0,LB
 2024,00-0035164,Cody Thompson,WR,TB,,,False,6,1.0,0.0027,,,,,,,,0.002,WR
 2024,00-0035166,Azeez Al-Shaair,LB,HOU,,,False,6,11.0,0.5184,,,,,,13,12.9465,0.015,LB
-2024,00-0035189,Matthew Wright,K,KC,,,False,5,5.0,0.0,,,,,,,,0.0,ST
+2024,00-0035189,Matthew Wright,K,TEN,,,False,5,5.0,0.0,,,,,,,,0.0,ST
 2024,00-0035190,AJ Cole,P,LV,,,False,6,17.0,0.0,,,,,,,,0.013,ST
 2024,00-0035192,Joey Slye,K,NE,,,False,6,17.0,0.0,,,,,,,,0.004,ST
 2024,00-0035202,Del'Shawn Phillips,LB,HOU,,,False,6,17.0,0.0244,,,,,,1,0.7286,0.01,LB
@@ -28057,7 +28057,7 @@ temporada,jugador,nombre,posicion,equipo,ronda,pick,drafteado,anio_carrera,parti
 2024,00-0038578,Jay Ward,SS,MIN,4,134,True,2,16.0,0.0253,,,,,,1,0.3183,0.004,DB
 2024,00-0038579,Aidan O'Connell,QB,LV,4,135,True,2,9.0,0.3841,264.0,8.2412,0.0312,0.4583,14.8336,,,0.004,QB
 2024,00-0038580,Yasir Abdullah,LB,JAX,5,136,True,2,14.0,0.1529,,,,,,,,0.004,LB
-2024,00-0038581,KJ Henry,DE,CIN,5,137,True,2,4.0,0.0461,,,,,,1,2.7823,0.0,DL
+2024,00-0038581,KJ Henry,DE,DAL,5,137,True,2,4.0,0.0461,,,,,,1,2.7823,0.0,DL
 2024,00-0038582,Clayton Tune,QB,ARI,5,139,True,2,6.0,0.0279,7.0,-7.5727,-1.0818,0.4286,-7.3979,,,0.004,QB
 2024,00-0038583,Dorian Thompson-Robinson,QB,CLE,5,140,True,2,7.0,0.1871,145.0,-51.6026,-0.3559,0.3172,-47.9818,,,0.003,QB
 2024,00-0038584,Jaquelin Roy,NT,NE,5,141,True,2,6.0,0.1276,,,,,,3,3.4341,0.002,DL
@@ -28673,7 +28673,7 @@ temporada,jugador,nombre,posicion,equipo,ronda,pick,drafteado,anio_carrera,parti
 2025,00-0030565,Geno Smith,QB,LV,2,39,True,13,15.0,0.7904,535.0,-49.6216,-0.0928,0.428,-21.221,,,0.127,QB
 2025,00-0030615,James Winchester,LS,KC,,,False,11,17.0,0.0,,,,,,,,0.005,ST
 2025,00-0030725,Cornelius Lucas,T,CLE,,,False,12,10.0,0.2674,,,,,,,,0.005,OL
-2025,00-0030757,Mike Pennel,DT,CIN,,,False,12,16.0,0.2844,,,,,,1,0.4369,0.002,DL
+2025,00-0030757,Mike Pennel,NT,KC,,,False,12,16.0,0.2844,,,,,,1,0.4369,0.002,DL
 2025,00-0030957,Casey Kreiter,LS,NYG,,,False,10,17.0,0.0,,,,,,,,0.004,ST
 2025,00-0031040,Khalil Mack,LB,LAC,1,5,True,12,12.0,0.3914,,,,,,8,10.2696,0.064,LB
 2025,00-0031054,DaQuan Jones,DT,BUF,4,112,True,12,12.0,0.3896,,,,,,7,9.1419,0.034,DL
@@ -29206,7 +29206,7 @@ temporada,jugador,nombre,posicion,equipo,ronda,pick,drafteado,anio_carrera,parti
 2025,00-0035672,Cody Barton,LB,TEN,3,88,True,7,17.0,0.9795,,,,,,14,23.4783,0.014,LB
 2025,00-0035674,Jerry Tillery,DL,KC,1,28,True,7,17.0,0.3471,,,,,,3,1.7756,0.006,DL
 2025,00-0035676,A.J. Brown,WR,PHI,2,51,True,7,15.0,0.7721,121.0,28.9594,0.2393,0.5207,12.7278,,,0.06,WR
-2025,00-0035678,Dre'Mont Jones,LB,TEN,3,71,True,7,18.0,0.7303,,,,,,10,10.3394,0.004,LB
+2025,00-0035678,Dre'Mont Jones,LB,BAL,3,71,True,7,18.0,0.7303,,,,,,10,10.3394,0.004,LB
 2025,00-0035679,Connor McGovern,G,BUF,3,90,True,7,16.0,0.9497,,,,,,,,0.034,OL
 2025,00-0035680,Quincy Williams,LB,NYJ,3,98,True,7,13.0,0.7238,,,,,,16,13.9595,0.03,LB
 2025,00-0035681,Mike Edwards,S,KC,3,99,True,7,6.0,0.1099,,,,,,2,1.2439,0.001,DB
@@ -29410,7 +29410,7 @@ temporada,jugador,nombre,posicion,equipo,ronda,pick,drafteado,anio_carrera,parti
 2025,00-0036479,Kwity Paye,DE,IND,1,21,True,5,17.0,0.6656,,,,,,8,6.6355,0.046,DL
 2025,00-0036480,Dayo Odeyingbo,DL,CHI,2,54,True,5,8.0,0.3407,,,,,,3,2.9496,0.028,DL
 2025,00-0036483,Will Fries,G,MIN,7,248,True,5,17.0,0.9058,,,,,,,,0.021,OL
-2025,00-0036497,Tim Jones,WR,JAX,,,False,5,4.0,0.0238,1.0,0.9298,0.9298,1.0,0.7956,,,0.001,WR
+2025,00-0036497,Tim Jones,WR,MIN,,,False,5,4.0,0.0238,1.0,0.9298,0.9298,1.0,0.7956,,,0.001,WR
 2025,00-0036500,Jamien Sherwood,LB,NYJ,5,146,True,5,17.0,1.0257,,,,,,16,14.4589,0.018,LB
 2025,00-0036501,Michael Carter II,CB,PHI,5,154,True,5,13.0,0.2317,,,,,,3,2.9343,0.004,DB
 2025,00-0036502,Jason Pinnock,S,SF,5,175,True,5,17.0,0.4561,,,,,,1,0.9044,0.006,DB
@@ -29559,7 +29559,7 @@ temporada,jugador,nombre,posicion,equipo,ronda,pick,drafteado,anio_carrera,parti
 2025,00-0036962,Tre'von Moehrig,S,CAR,2,43,True,5,16.0,0.914,,,,,,16,17.4627,0.025,DB
 2025,00-0036963,Amon-Ra St. Brown,WR,DET,4,112,True,5,17.0,0.86,175.0,49.4964,0.2828,0.5257,26.0209,,,0.045,WR
 2025,00-0036964,Derrick Barnes,LB,DET,4,113,True,5,17.0,0.8678,,,,,,10,15.1958,0.01,LB
-2025,00-0036967,Joe Tryon-Shoyinka,DE,CHI,1,32,True,5,16.0,0.1311,,,,,,1,0.8206,0.003,DL
+2025,00-0036967,Joe Tryon-Shoyinka,DL,CHI,1,32,True,5,16.0,0.1311,,,,,,1,0.8206,0.003,DL
 2025,00-0036968,Brady Christensen,OL,CAR,3,70,True,5,8.0,0.2619,,,,,,,,0.01,OL
 2025,00-0036970,Kyle Pitts,TE,ATL,1,4,True,5,17.0,0.8801,118.0,22.499,0.1907,0.5593,3.9258,,,0.038,TE
 2025,00-0036971,Trevor Lawrence,QB,JAX,1,1,True,5,17.0,1.0203,671.0,66.067,0.0985,0.4829,101.6872,,,0.057,QB
@@ -29709,7 +29709,7 @@ temporada,jugador,nombre,posicion,equipo,ronda,pick,drafteado,anio_carrera,parti
 2025,00-0037311,Ko Kieft,TE,TB,6,218,True,4,3.0,0.0266,,,,,,,,0.004,TE
 2025,00-0037313,Montaric Brown,CB,JAX,7,222,True,4,15.0,0.6786,,,,,,12,11.7483,0.012,DB
 2025,00-0037315,Cameron Goode,LB,MIA,7,224,True,4,17.0,0.0997,,,,,,1,0.6192,0.004,LB
-2025,00-0037316,Mark Robinson,LB,NE,7,225,True,4,8.0,0.0037,,,,,,,,,LB
+2025,00-0037316,Mark Robinson,LB,NYJ,7,225,True,4,8.0,0.0037,,,,,,,,,LB
 2025,00-0037318,Baylon Spector,LB,BUF,7,231,True,4,3.0,0.0028,,,,,,,,0.0,LB
 2025,00-0037320,Deane Leonard,DB,LAC,7,236,True,4,8.0,0.0332,,,,,,,,0.004,DB
 2025,00-0037321,Chase Lucas,CB,SF,7,237,True,4,15.0,0.0905,,,,,,1,2.9755,0.003,DB
@@ -30264,7 +30264,7 @@ temporada,jugador,nombre,posicion,equipo,ronda,pick,drafteado,anio_carrera,parti
 2025,00-0039431,Jowon Briggs,DL,NYJ,7,243,True,2,17.0,0.5429,,,,,,8,10.4022,0.003,DL
 2025,00-0039435,Tatum Bethune,LB,SF,7,251,True,2,14.0,0.4607,,,,,,7,5.9688,0.003,LB
 2025,00-0039436,Jaylen Harrell,LB,TEN,7,252,True,2,17.0,0.3351,,,,,,8,9.1193,0.003,LB
-2025,00-0039442,Kingsley Eguakun,C,DET,,,False,2,4.0,0.1264,,,,,,,,0.0,OL
+2025,00-0039442,Kingsley Eguakun,OL,DET,,,False,2,4.0,0.1264,,,,,,,,0.0,OL
 2025,00-0039445,Hogan Hatten,LS,DET,,,False,2,17.0,0.0,,,,,,,,0.003,ST
 2025,00-0039446,Bryan Hudson,C,NYG,,,False,2,2.0,0.0027,,,,,,,,0.0,OL
 2025,00-0039448,Loren Strickland,S,DET,,,False,2,2.0,0.0129,,,,,,,,0.001,DB
@@ -30328,7 +30328,7 @@ temporada,jugador,nombre,posicion,equipo,ronda,pick,drafteado,anio_carrera,parti
 2025,00-0039739,Roman Wilson,WR,PIT,3,84,True,2,13.0,0.2317,21.0,3.7333,0.1778,0.3333,0.9163,,,0.005,WR
 2025,00-0039740,Jalyx Hunt,LB,PHI,3,94,True,2,17.0,0.6398,,,,,,15,30.0663,0.004,LB
 2025,00-0039741,Payton Wilson,LB,PIT,3,98,True,2,17.0,0.6758,,,,,,8,13.6979,0.004,LB
-2025,00-0039743,Jordan Jefferson,DL,CIN,4,116,True,2,2.0,0.0231,,,,,,,,0.003,DL
+2025,00-0039743,Jordan Jefferson,DT,CIN,4,116,True,2,2.0,0.0231,,,,,,,,0.003,DL
 2025,00-0039744,Tanor Bortolini,C,IND,4,117,True,2,16.0,0.8582,,,,,,,,0.004,OL
 2025,00-0039745,Tory Taylor,P,CHI,4,122,True,2,17.0,0.0,,,,,,,,0.004,ST
 2025,00-0039746,Will Shipley,RB,PHI,4,127,True,2,15.0,0.1062,26.0,-7.2897,-0.2804,0.2308,-5.7811,1,1.6156,0.004,RB
@@ -32071,7 +32071,7 @@ temporada,jugador,nombre,posicion,equipo,ronda,pick,drafteado,anio_carrera,parti
 2026,00-0039451,Isaiah Williams,WR,NYJ,,,False,3,10.0,0.5392,26.0,6.4327,0.2474,0.5,8.3191,,,0.003,WR
 2026,00-0039459,Theo Benedet,OL,CHI,,,False,3,9.0,0.7331,,,,,,,,0.003,OL
 2026,00-0039460,Carl Jones,LB,BAL,,,False,3,3.0,0.0,,,,,,,,0.001,LB
-2026,00-0039461,Jamree Kromah,DL,MIA,,,False,3,4.0,0.0461,,,,,,1,0.8498,0.002,DL
+2026,00-0039461,Jamree Kromah,DE,MIA,,,False,3,4.0,0.0461,,,,,,1,0.8498,0.002,DL
 2026,00-0039465,Reddy Steward,CB,DAL,,,False,3,3.0,0.1336,,,,,,,,0.001,DB
 2026,00-0039469,Te'Cory Couch,DB,BUF,,,False,3,4.0,0.0553,,,,,,,,0.002,DB
 2026,00-0039471,Frank Gore Jr.,RB,BUF,,,False,3,2.0,0.0305,1.0,-0.055,-0.055,0.0,0.0408,,,0.001,RB
@@ -32375,7 +32375,7 @@ temporada,jugador,nombre,posicion,equipo,ronda,pick,drafteado,anio_carrera,parti
 2026,00-0040265,Ja'Seem Reed,WR,CAR,,,False,2,1.0,0.0153,1.0,-0.7628,-0.7628,0.0,-0.6902,,,0.001,WR
 2026,00-0040277,Jahdae Walker,WR,CHI,,,False,2,9.0,0.1283,2.0,-1.1912,-0.5956,0.5,-1.0461,,,0.003,WR
 2026,00-0040279,Ryan Fitzgerald,K,CAR,,,False,2,9.0,0.0015,,,,,,,,0.003,ST
-2026,00-0040283,Jared Harrison-Hunte,DT,ARI,,,False,2,2.0,0.0522,,,,,,,,0.001,DL
+2026,00-0040283,Jared Harrison-Hunte,DL,ARI,,,False,2,2.0,0.0522,,,,,,,,0.001,DL
 2026,00-0040289,Bam Martin-Scott,LB,CAR,,,False,2,4.0,0.0,,,,,,,,0.003,LB
 2026,00-0040293,Michael Reid,S,NO,,,False,2,4.0,0.0,,,,,,,,0.003,DB
 2026,00-0040296,Corey Thornton,CB,CAR,,,False,2,2.0,0.1644,,,,,,3,4.0496,0.001,DB

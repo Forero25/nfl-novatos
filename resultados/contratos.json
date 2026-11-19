@@ -141,10 +141,10 @@
   {
    "grupo": "DB",
    "etapa": "Novato",
-   "titular_por_pct": 0.6613,
-   "ic_bajo": 0.6175,
-   "ic_alto": 0.7055,
-   "temporadas": 860
+   "titular_por_pct": 0.6612,
+   "ic_bajo": 0.6182,
+   "ic_alto": 0.7019,
+   "temporadas": 861
   },
   {
    "grupo": "DL",
@@ -189,10 +189,10 @@
   {
    "grupo": "LB",
    "etapa": "Novato",
-   "titular_por_pct": 0.4901,
-   "ic_bajo": 0.4537,
-   "ic_alto": 0.5279,
-   "temporadas": 623
+   "titular_por_pct": 0.4903,
+   "ic_bajo": 0.4523,
+   "ic_alto": 0.532,
+   "temporadas": 622
   },
   {
    "grupo": "OL",

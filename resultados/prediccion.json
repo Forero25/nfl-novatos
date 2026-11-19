@@ -41,12 +41,12 @@
  "dif_auc_novato_vs_draft": {
   "dif": 0.0486,
   "ic_bajo": 0.0368,
-  "ic_alto": 0.0594
+  "ic_alto": 0.0614
  },
  "dif_auc_boosting_vs_logistica": {
   "dif": -0.0182,
-  "ic_bajo": -0.0274,
-  "ic_alto": -0.0088
+  "ic_bajo": -0.0278,
+  "ic_alto": -0.0093
  },
  "calibracion": [
   {
@@ -55,7 +55,7 @@
    "n": 202
   },
   {
-   "predicho": 0.0306,
+   "predicho": 0.0307,
    "observado": 0.0149,
    "n": 201
   },
@@ -216,7 +216,7 @@
    "grupo": "WR",
    "pick": 64,
    "participacion": 0.4,
-   "prob": 0.4616
+   "prob": 0.4617
   },
   {
    "grupo": "WR",
@@ -234,7 +234,7 @@
    "grupo": "WR",
    "pick": 100,
    "participacion": 0.4,
-   "prob": 0.3908
+   "prob": 0.3909
   },
   {
    "grupo": "WR",
@@ -264,7 +264,7 @@
    "grupo": "WR",
    "pick": 220,
    "participacion": 0.1,
-   "prob": 0.116
+   "prob": 0.1161
   },
   {
    "grupo": "WR",
@@ -276,13 +276,13 @@
    "grupo": "WR",
    "pick": 220,
    "participacion": 0.7,
-   "prob": 0.4069
+   "prob": 0.407
   },
   {
    "grupo": "OL",
    "pick": 10,
    "participacion": 0.1,
-   "prob": 0.667
+   "prob": 0.6669
   },
   {
    "grupo": "OL",
@@ -330,7 +330,7 @@
    "grupo": "OL",
    "pick": 64,
    "participacion": 0.7,
-   "prob": 0.7579
+   "prob": 0.758
   },
   {
    "grupo": "OL",
@@ -348,7 +348,7 @@
    "grupo": "OL",
    "pick": 100,
    "participacion": 0.7,
-   "prob": 0.7008
+   "prob": 0.7009
   },
   {
    "grupo": "OL",
@@ -360,13 +360,13 @@
    "grupo": "OL",
    "pick": 150,
    "participacion": 0.4,
-   "prob": 0.502
+   "prob": 0.5021
   },
   {
    "grupo": "OL",
    "pick": 150,
    "participacion": 0.7,
-   "prob": 0.6428
+   "prob": 0.6429
   },
   {
    "grupo": "OL",
@@ -390,73 +390,73 @@
    "grupo": "DB",
    "pick": 10,
    "participacion": 0.1,
-   "prob": 0.4908
+   "prob": 0.4907
   },
   {
    "grupo": "DB",
    "pick": 10,
    "participacion": 0.4,
-   "prob": 0.7383
+   "prob": 0.7382
   },
   {
    "grupo": "DB",
    "pick": 10,
    "participacion": 0.7,
-   "prob": 0.8344
+   "prob": 0.8343
   },
   {
    "grupo": "DB",
    "pick": 32,
    "participacion": 0.1,
-   "prob": 0.3116
+   "prob": 0.3114
   },
   {
    "grupo": "DB",
    "pick": 32,
    "participacion": 0.4,
-   "prob": 0.5699
+   "prob": 0.5697
   },
   {
    "grupo": "DB",
    "pick": 32,
    "participacion": 0.7,
-   "prob": 0.7028
+   "prob": 0.7027
   },
   {
    "grupo": "DB",
    "pick": 64,
    "participacion": 0.1,
-   "prob": 0.2239
+   "prob": 0.2238
   },
   {
    "grupo": "DB",
    "pick": 64,
    "participacion": 0.4,
-   "prob": 0.4578
+   "prob": 0.4577
   },
   {
    "grupo": "DB",
    "pick": 64,
    "participacion": 0.7,
-   "prob": 0.6012
+   "prob": 0.6011
   },
   {
    "grupo": "DB",
    "pick": 100,
    "participacion": 0.1,
-   "prob": 0.1775
+   "prob": 0.1774
   },
   {
    "grupo": "DB",
    "pick": 100,
    "participacion": 0.4,
-   "prob": 0.3871
+   "prob": 0.387
   },
   {
    "grupo": "DB",
    "pick": 100,
    "participacion": 0.7,
-   "prob": 0.53
+   "prob": 0.5299
   },
   {
    "grupo": "DB",
@@ -468,31 +468,31 @@
    "grupo": "DB",
    "pick": 150,
    "participacion": 0.4,
-   "prob": 0.3267
+   "prob": 0.3266
   },
   {
    "grupo": "DB",
    "pick": 150,
    "participacion": 0.7,
-   "prob": 0.4642
+   "prob": 0.4641
   },
   {
    "grupo": "DB",
    "pick": 220,
    "participacion": 0.1,
-   "prob": 0.1145
+   "prob": 0.1144
   },
   {
    "grupo": "DB",
    "pick": 220,
    "participacion": 0.4,
-   "prob": 0.2745
+   "prob": 0.2744
   },
   {
    "grupo": "DB",
    "pick": 220,
    "participacion": 0.7,
-   "prob": 0.4032
+   "prob": 0.4031
   }
  ],
  "pronosticos": {
@@ -511,7 +511,7 @@
     "grupo": "DB",
     "pick_ef": 5.0,
     "participacion": 0.7927,
-    "prob": 0.9783
+    "prob": 0.9782
    },
    {
     "nombre": "Paris Johnson Jr.",
@@ -551,7 +551,7 @@
     "grupo": "OL",
     "pick_ef": 36.0,
     "participacion": 1.0245,
-    "prob": 0.9115
+    "prob": 0.9116
    },
    {
     "nombre": "Matthew Bergeron",
@@ -798,7 +798,7 @@
    "grupo": "DB",
    "pick_ef": 106.0,
    "participacion": 0.8771,
-   "prob": 0.6615
+   "prob": 0.6614
   },
   {
    "nombre": "Malachi Moore",
@@ -814,7 +814,7 @@
    "grupo": "DB",
    "pick_ef": 174.0,
    "participacion": 0.6269,
-   "prob": 0.5517
+   "prob": 0.5516
   },
   {
    "nombre": "Jalen Rivers",
@@ -822,7 +822,7 @@
    "grupo": "OL",
    "pick_ef": 153.0,
    "participacion": 0.4359,
-   "prob": 0.5287
+   "prob": 0.5288
   },
   {
    "nombre": "Upton Stout",
@@ -830,7 +830,7 @@
    "grupo": "DB",
    "pick_ef": 100.0,
    "participacion": 0.5475,
-   "prob": 0.4982
+   "prob": 0.4981
   },
   {
    "nombre": "Jalen Travis",
@@ -846,7 +846,7 @@
    "grupo": "LB",
    "pick_ef": 119.0,
    "participacion": 0.7312,
-   "prob": 0.4545
+   "prob": 0.4547
   },
   {
    "nombre": "Quincy Riley",
@@ -854,7 +854,7 @@
    "grupo": "DB",
    "pick_ef": 131.0,
    "participacion": 0.5484,
-   "prob": 0.4539
+   "prob": 0.4538
   }
  ]
 }
