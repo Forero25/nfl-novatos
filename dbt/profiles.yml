@@ -1,0 +1,7 @@
+nfl_novatos:
+  target: local
+  outputs:
+    local:
+      type: duckdb
+      path: "{{ env_var('NFL_DB', '../data/nfl.duckdb') }}"
+      threads: 4

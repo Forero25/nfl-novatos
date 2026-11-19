@@ -1,0 +1,29 @@
+version: 2
+models:
+  - name: valor_ofensivo
+    data_tests:
+      - combinacion_unica: { arguments: { columnas: [temporada, jugador] } }
+    columns:
+      - name: epa_jugada
+        data_tests: [{ entre: { arguments: { minimo: -10, maximo: 10 } } }]
+  - name: valor_defensivo
+    data_tests:
+      - combinacion_unica: { arguments: { columnas: [temporada, jugador] } }
+  - name: participacion
+    data_tests:
+      - combinacion_unica: { arguments: { columnas: [temporada, pfr_id] } }
+    columns:
+      - name: participacion
+        data_tests: [{ entre: { arguments: { minimo: 0, maximo: 1.15 } } }]
+  - name: temporadas
+    data_tests:
+      - combinacion_unica: { arguments: { columnas: [temporada, jugador] } }
+  - name: equipos
+    data_tests:
+      - combinacion_unica: { arguments: { columnas: [temporada, equipo] } }
+    columns:
+      - name: part_novatos
+        data_tests: [{ entre: { arguments: { minimo: 0, maximo: 0.6 } } }]
+  - name: carreras
+    data_tests:
+      - combinacion_unica: { arguments: { columnas: [jugador] } }

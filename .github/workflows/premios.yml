@@ -1,0 +1,13 @@
+name: premios
+on: { workflow_dispatch: {}, push: { paths: ['ingesta/premios.py'] } }
+permissions: { contents: write }
+jobs:
+  premios:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - run: python3 ingesta/premios.py
+      - name: Guardar
+        run: |
+          git config user.name "Jose Nicolas Forero"; git config user.email "175185823+Forero25@users.noreply.github.com"
+          git add entradas/premios.csv; git diff --cached --quiet || (git commit -m "Premios a novatos desde Wikipedia" && git push)
