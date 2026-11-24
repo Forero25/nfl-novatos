@@ -68,8 +68,8 @@
    },
    {
     "temporada": 2026,
-    "ataque": 0.096,
-    "defensa": 0.0977
+    "ataque": 0.0983,
+    "defensa": 0.0997
    }
   ],
   "qb_titular": [
@@ -153,9 +153,9 @@
    },
    {
     "temporada": 2026,
-    "partidos": 300,
-    "con_qb_novato": 8,
-    "pct": 0.0267
+    "partidos": 326,
+    "con_qb_novato": 9,
+    "pct": 0.0276
    }
   ]
  },

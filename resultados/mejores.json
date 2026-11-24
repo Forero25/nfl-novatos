@@ -38,7 +38,7 @@
    "epa_destacado": null,
    "snaps_def": 0.0,
    "pct_cap": 0.003,
-   "epa_jugada_enc": 0.2039,
+   "epa_jugada_enc": 0.204,
    "grupo": "QB",
    "percentil_temporada": 0.9571
   },
@@ -143,7 +143,7 @@
    "epa_destacado": null,
    "snaps_def": null,
    "pct_cap": 0.033,
-   "epa_jugada_enc": 0.0689,
+   "epa_jugada_enc": 0.0688,
    "grupo": "QB",
    "percentil_temporada": 0.8235
   },
@@ -185,7 +185,7 @@
    "epa_destacado": null,
    "snaps_def": 0.0,
    "pct_cap": 0.032,
-   "epa_jugada_enc": 0.0951,
+   "epa_jugada_enc": 0.095,
    "grupo": "QB",
    "percentil_temporada": 0.8219
   },
@@ -206,7 +206,7 @@
    "epa_destacado": null,
    "snaps_def": 0.0,
    "pct_cap": 0.013,
-   "epa_jugada_enc": 0.0946,
+   "epa_jugada_enc": 0.0945,
    "grupo": "QB",
    "percentil_temporada": 0.8289
   },
@@ -227,7 +227,7 @@
    "epa_destacado": null,
    "snaps_def": 0.0,
    "pct_cap": 0.033,
-   "epa_jugada_enc": 0.0351,
+   "epa_jugada_enc": 0.035,
    "grupo": "QB",
    "percentil_temporada": 0.7183
   },
@@ -248,7 +248,7 @@
    "epa_destacado": null,
    "snaps_def": 0.0,
    "pct_cap": 0.004,
-   "epa_jugada_enc": 0.0992,
+   "epa_jugada_enc": 0.0993,
    "grupo": "RB",
    "percentil_temporada": 0.9937
   },
@@ -290,7 +290,7 @@
    "epa_destacado": null,
    "snaps_def": 0.0,
    "pct_cap": 0.011,
-   "epa_jugada_enc": 0.087,
+   "epa_jugada_enc": 0.0869,
    "grupo": "QB",
    "percentil_temporada": 0.7722
   },
@@ -332,7 +332,7 @@
    "epa_destacado": null,
    "snaps_def": 0.0,
    "pct_cap": 0.025,
-   "epa_jugada_enc": 0.0692,
+   "epa_jugada_enc": 0.0691,
    "grupo": "QB",
    "percentil_temporada": 0.7465
   },
@@ -374,7 +374,7 @@
    "epa_destacado": null,
    "snaps_def": 0.0,
    "pct_cap": 0.003,
-   "epa_jugada_enc": 0.0161,
+   "epa_jugada_enc": 0.016,
    "grupo": "QB",
    "percentil_temporada": 0.662
   },
@@ -395,7 +395,7 @@
    "epa_destacado": null,
    "snaps_def": 0.0,
    "pct_cap": 0.014,
-   "epa_jugada_enc": 0.3054,
+   "epa_jugada_enc": 0.3052,
    "grupo": "WR",
    "percentil_temporada": 0.9692
   },
@@ -416,7 +416,7 @@
    "epa_destacado": null,
    "snaps_def": 0.0,
    "pct_cap": 0.029,
-   "epa_jugada_enc": 0.0228,
+   "epa_jugada_enc": 0.023,
    "grupo": "RB",
    "percentil_temporada": 0.9882
   },
@@ -437,7 +437,7 @@
    "epa_destacado": null,
    "snaps_def": 0.0,
    "pct_cap": 0.004,
-   "epa_jugada_enc": 0.0394,
+   "epa_jugada_enc": 0.0396,
    "grupo": "RB",
    "percentil_temporada": 0.972
   },
@@ -458,7 +458,7 @@
    "epa_destacado": null,
    "snaps_def": 0.0,
    "pct_cap": 0.004,
-   "epa_jugada_enc": 0.2802,
+   "epa_jugada_enc": 0.2799,
    "grupo": "WR",
    "percentil_temporada": 0.9717
   },
@@ -500,7 +500,7 @@
    "epa_destacado": null,
    "snaps_def": 0.0,
    "pct_cap": 0.004,
-   "epa_jugada_enc": 0.3303,
+   "epa_jugada_enc": 0.33,
    "grupo": "WR",
    "percentil_temporada": 0.9469
   },
@@ -521,7 +521,7 @@
    "epa_destacado": null,
    "snaps_def": 0.0,
    "pct_cap": 0.029,
-   "epa_jugada_enc": 0.0434,
+   "epa_jugada_enc": 0.0433,
    "grupo": "QB",
    "percentil_temporada": 0.6575
   }
@@ -565,7 +565,7 @@
     "epa_destacado": null,
     "snaps_def": 0.0,
     "pct_cap": 0.003,
-    "epa_jugada_enc": 0.2039,
+    "epa_jugada_enc": 0.204,
     "grupo": "QB"
    },
    {
@@ -665,7 +665,7 @@
     "epa_destacado": null,
     "snaps_def": null,
     "pct_cap": 0.033,
-    "epa_jugada_enc": 0.0689,
+    "epa_jugada_enc": 0.0688,
     "grupo": "QB"
    },
    {
@@ -707,7 +707,7 @@
     "epa_destacado": null,
     "snaps_def": 0.0,
     "pct_cap": 0.004,
-    "epa_jugada_enc": 0.0992,
+    "epa_jugada_enc": 0.0993,
     "grupo": "RB"
    },
    {
@@ -727,7 +727,7 @@
     "epa_destacado": null,
     "snaps_def": 0.0,
     "pct_cap": 0.029,
-    "epa_jugada_enc": 0.0228,
+    "epa_jugada_enc": 0.023,
     "grupo": "RB"
    },
    {
@@ -747,7 +747,7 @@
     "epa_destacado": null,
     "snaps_def": 0.0,
     "pct_cap": 0.004,
-    "epa_jugada_enc": 0.0394,
+    "epa_jugada_enc": 0.0396,
     "grupo": "RB"
    },
    {
@@ -767,7 +767,7 @@
     "epa_destacado": null,
     "snaps_def": 0.0,
     "pct_cap": 0.004,
-    "epa_jugada_enc": 0.0491,
+    "epa_jugada_enc": 0.0493,
     "grupo": "RB"
    },
    {
@@ -787,7 +787,7 @@
     "epa_destacado": null,
     "snaps_def": 0.0,
     "pct_cap": 0.004,
-    "epa_jugada_enc": 0.0112,
+    "epa_jugada_enc": 0.0114,
     "grupo": "RB"
    },
    {
@@ -807,7 +807,7 @@
     "epa_destacado": null,
     "snaps_def": 0.0,
     "pct_cap": 0.006,
-    "epa_jugada_enc": 0.0229,
+    "epa_jugada_enc": 0.0231,
     "grupo": "RB"
    },
    {
@@ -827,7 +827,7 @@
     "epa_destacado": null,
     "snaps_def": 0.0,
     "pct_cap": 0.004,
-    "epa_jugada_enc": 0.0226,
+    "epa_jugada_enc": 0.0229,
     "grupo": "RB"
    },
    {
@@ -847,7 +847,7 @@
     "epa_destacado": null,
     "snaps_def": 0.0,
     "pct_cap": 0.005,
-    "epa_jugada_enc": 0.0245,
+    "epa_jugada_enc": 0.0248,
     "grupo": "RB"
    }
   ],
@@ -869,7 +869,7 @@
     "epa_destacado": null,
     "snaps_def": 0.0,
     "pct_cap": 0.014,
-    "epa_jugada_enc": 0.3054,
+    "epa_jugada_enc": 0.3052,
     "grupo": "WR"
    },
    {
@@ -889,7 +889,7 @@
     "epa_destacado": null,
     "snaps_def": 0.0,
     "pct_cap": 0.004,
-    "epa_jugada_enc": 0.2802,
+    "epa_jugada_enc": 0.2799,
     "grupo": "WR"
    },
    {
@@ -909,7 +909,7 @@
     "epa_destacado": null,
     "snaps_def": 0.0,
     "pct_cap": 0.004,
-    "epa_jugada_enc": 0.3303,
+    "epa_jugada_enc": 0.33,
     "grupo": "WR"
    },
    {
@@ -929,7 +929,7 @@
     "epa_destacado": null,
     "snaps_def": 0.0,
     "pct_cap": 0.007,
-    "epa_jugada_enc": 0.304,
+    "epa_jugada_enc": 0.3037,
     "grupo": "WR"
    },
    {
@@ -949,7 +949,7 @@
     "epa_destacado": null,
     "snaps_def": 0.0,
     "pct_cap": 0.005,
-    "epa_jugada_enc": 0.3174,
+    "epa_jugada_enc": 0.3171,
     "grupo": "WR"
    },
    {
@@ -969,7 +969,7 @@
     "epa_destacado": null,
     "snaps_def": 0.0,
     "pct_cap": 0.004,
-    "epa_jugada_enc": 0.3181,
+    "epa_jugada_enc": 0.3178,
     "grupo": "WR"
    },
    {
@@ -989,7 +989,7 @@
     "epa_destacado": null,
     "snaps_def": 0.0,
     "pct_cap": 0.029,
-    "epa_jugada_enc": 0.298,
+    "epa_jugada_enc": 0.2978,
     "grupo": "WR"
    },
    {
@@ -1009,7 +1009,7 @@
     "epa_destacado": null,
     "snaps_def": 0.0,
     "pct_cap": 0.01,
-    "epa_jugada_enc": 0.2654,
+    "epa_jugada_enc": 0.2652,
     "grupo": "WR"
    }
   ],
@@ -1195,7 +1195,7 @@
     "epa_destacado": null,
     "snaps_def": 0.0,
     "pct_cap": 0.003,
-    "epa_jugada_enc": 0.2039,
+    "epa_jugada_enc": 0.204,
     "grupo": "QB"
    },
    {
@@ -1357,7 +1357,7 @@
     "epa_destacado": null,
     "snaps_def": 0.0,
     "pct_cap": 0.004,
-    "epa_jugada_enc": 0.0992,
+    "epa_jugada_enc": 0.0993,
     "grupo": "RB"
    },
    {
@@ -1377,7 +1377,7 @@
     "epa_destacado": null,
     "snaps_def": 0.0,
     "pct_cap": 0.004,
-    "epa_jugada_enc": 0.0491,
+    "epa_jugada_enc": 0.0493,
     "grupo": "RB"
    },
    {
@@ -1397,7 +1397,7 @@
     "epa_destacado": null,
     "snaps_def": 0.0,
     "pct_cap": 0.004,
-    "epa_jugada_enc": 0.0394,
+    "epa_jugada_enc": 0.0396,
     "grupo": "RB"
    },
    {
@@ -1417,7 +1417,7 @@
     "epa_destacado": null,
     "snaps_def": 0.0,
     "pct_cap": 0.005,
-    "epa_jugada_enc": 0.0245,
+    "epa_jugada_enc": 0.0248,
     "grupo": "RB"
    },
    {
@@ -1437,7 +1437,7 @@
     "epa_destacado": null,
     "snaps_def": 0.0,
     "pct_cap": 0.006,
-    "epa_jugada_enc": 0.0229,
+    "epa_jugada_enc": 0.0231,
     "grupo": "RB"
    },
    {
@@ -1457,7 +1457,7 @@
     "epa_destacado": null,
     "snaps_def": 0.0,
     "pct_cap": 0.029,
-    "epa_jugada_enc": 0.0228,
+    "epa_jugada_enc": 0.023,
     "grupo": "RB"
    },
    {
@@ -1477,7 +1477,7 @@
     "epa_destacado": null,
     "snaps_def": 0.0,
     "pct_cap": 0.004,
-    "epa_jugada_enc": 0.0226,
+    "epa_jugada_enc": 0.0229,
     "grupo": "RB"
    },
    {
@@ -1497,7 +1497,7 @@
     "epa_destacado": null,
     "snaps_def": 0.0,
     "pct_cap": 0.003,
-    "epa_jugada_enc": 0.0142,
+    "epa_jugada_enc": 0.0146,
     "grupo": "RB"
    }
   ],
@@ -1519,7 +1519,7 @@
     "epa_destacado": null,
     "snaps_def": 0.0,
     "pct_cap": 0.005,
-    "epa_jugada_enc": 0.3174,
+    "epa_jugada_enc": 0.3171,
     "grupo": "WR"
    },
    {
@@ -1539,7 +1539,7 @@
     "epa_destacado": null,
     "snaps_def": 0.0,
     "pct_cap": 0.005,
-    "epa_jugada_enc": 0.306,
+    "epa_jugada_enc": 0.3057,
     "grupo": "WR"
    },
    {
@@ -1559,7 +1559,7 @@
     "epa_destacado": null,
     "snaps_def": 0.0,
     "pct_cap": 0.014,
-    "epa_jugada_enc": 0.3054,
+    "epa_jugada_enc": 0.3052,
     "grupo": "WR"
    },
    {
@@ -1579,7 +1579,7 @@
     "epa_destacado": null,
     "snaps_def": 0.0,
     "pct_cap": 0.007,
-    "epa_jugada_enc": 0.304,
+    "epa_jugada_enc": 0.3037,
     "grupo": "WR"
    },
    {
@@ -1599,7 +1599,7 @@
     "epa_destacado": null,
     "snaps_def": 0.0,
     "pct_cap": 0.029,
-    "epa_jugada_enc": 0.298,
+    "epa_jugada_enc": 0.2978,
     "grupo": "WR"
    },
    {
@@ -1619,7 +1619,7 @@
     "epa_destacado": null,
     "snaps_def": null,
     "pct_cap": 0.003,
-    "epa_jugada_enc": 0.2956,
+    "epa_jugada_enc": 0.2953,
     "grupo": "WR"
    },
    {
@@ -1639,7 +1639,7 @@
     "epa_destacado": null,
     "snaps_def": 0.0,
     "pct_cap": 0.012,
-    "epa_jugada_enc": 0.2919,
+    "epa_jugada_enc": 0.2916,
     "grupo": "WR"
    },
    {
@@ -1659,7 +1659,7 @@
     "epa_destacado": null,
     "snaps_def": 0.0,
     "pct_cap": 0.004,
-    "epa_jugada_enc": 0.2893,
+    "epa_jugada_enc": 0.2891,
     "grupo": "WR"
    }
   ],
@@ -3110,7 +3110,7 @@
   }
  },
  "clase_2026": {
-  "partidos_jugados": 10,
+  "partidos_jugados": 11,
   "ofensivos": [
    {
     "temporada": 2026,
@@ -3119,19 +3119,40 @@
     "equipo": "KC",
     "pick": 161,
     "ronda": 5,
-    "jugadas": 71.0,
-    "epa": 18.4972,
-    "epa_jugada": 0.2605,
-    "tasa_exito": 0.493,
-    "valor_reemplazo": 25.2976,
-    "participacion": 0.2917,
+    "jugadas": 98.0,
+    "epa": 21.8457,
+    "epa_jugada": 0.2229,
+    "tasa_exito": 0.4898,
+    "valor_reemplazo": 29.9099,
+    "participacion": 0.3474,
     "jugadas_destacadas": null,
     "epa_destacado": null,
     "snaps_def": 0.0,
     "pct_cap": null,
-    "epa_jugada_enc": 0.0234,
+    "epa_jugada_enc": 0.0313,
     "grupo": "RB",
-    "ritmo_17": 43.0059
+    "ritmo_17": 46.2244
+   },
+   {
+    "temporada": 2026,
+    "nombre": "Jonah Coleman",
+    "posicion": "RB",
+    "equipo": "DEN",
+    "pick": 108,
+    "ronda": 4,
+    "jugadas": 90.0,
+    "epa": 10.219,
+    "epa_jugada": 0.1135,
+    "tasa_exito": 0.5,
+    "valor_reemplazo": 17.6249,
+    "participacion": 0.3043,
+    "jugadas_destacadas": null,
+    "epa_destacado": null,
+    "snaps_def": 0.0,
+    "pct_cap": null,
+    "epa_jugada_enc": -0.0012,
+    "grupo": "RB",
+    "ritmo_17": 27.2384
    },
    {
     "temporada": 2026,
@@ -3141,39 +3162,18 @@
     "pick": 30,
     "ronda": 1,
     "jugadas": 24.0,
-    "epa": 17.3359,
-    "epa_jugada": 0.7223,
-    "tasa_exito": 0.5417,
-    "valor_reemplazo": 19.0773,
-    "participacion": 0.3039,
+    "epa": 16.0713,
+    "epa_jugada": 0.6696,
+    "tasa_exito": 0.5,
+    "valor_reemplazo": 12.4208,
+    "participacion": 0.2765,
     "jugadas_destacadas": null,
     "epa_destacado": null,
     "snaps_def": 0.0,
     "pct_cap": null,
-    "epa_jugada_enc": 0.2659,
+    "epa_jugada_enc": 0.2597,
     "grupo": "WR",
-    "ritmo_17": 32.4314
-   },
-   {
-    "temporada": 2026,
-    "nombre": "Caleb Douglas",
-    "posicion": "WR",
-    "equipo": "MIA",
-    "pick": 75,
-    "ronda": 3,
-    "jugadas": 35.0,
-    "epa": 13.713,
-    "epa_jugada": 0.3918,
-    "tasa_exito": 0.6286,
-    "valor_reemplazo": 16.2525,
-    "participacion": 0.4613,
-    "jugadas_destacadas": null,
-    "epa_destacado": null,
-    "snaps_def": 0.0,
-    "pct_cap": null,
-    "epa_jugada_enc": 0.2375,
-    "grupo": "WR",
-    "ritmo_17": 27.6293
+    "ritmo_17": 19.1957
    },
    {
     "temporada": 2026,
@@ -3182,40 +3182,40 @@
     "equipo": "JAX",
     "pick": 191,
     "ronda": 6,
-    "jugadas": 17.0,
-    "epa": 14.2241,
-    "epa_jugada": 0.8367,
-    "tasa_exito": 0.6471,
-    "valor_reemplazo": 15.4576,
-    "participacion": 0.3192,
+    "jugadas": 24.0,
+    "epa": 13.9277,
+    "epa_jugada": 0.5803,
+    "tasa_exito": 0.5833,
+    "valor_reemplazo": 10.2771,
+    "participacion": 0.3293,
     "jugadas_destacadas": null,
     "epa_destacado": null,
     "snaps_def": 0.0,
     "pct_cap": null,
-    "epa_jugada_enc": 0.26,
+    "epa_jugada_enc": 0.2499,
     "grupo": "WR",
-    "ritmo_17": 26.2779
+    "ritmo_17": 15.8829
    },
    {
     "temporada": 2026,
-    "nombre": "KC Concepcion",
-    "posicion": "WR",
-    "equipo": "CLE",
-    "pick": 24,
-    "ronda": 1,
-    "jugadas": 74.0,
-    "epa": 8.2237,
-    "epa_jugada": 0.1111,
-    "tasa_exito": 0.4865,
-    "valor_reemplazo": 13.5929,
-    "participacion": 0.7469,
+    "nombre": "Seth McGowan",
+    "posicion": "RB",
+    "equipo": "IND",
+    "pick": 237,
+    "ronda": 7,
+    "jugadas": 65.0,
+    "epa": 1.2386,
+    "epa_jugada": 0.0191,
+    "tasa_exito": 0.4462,
+    "valor_reemplazo": 6.5873,
+    "participacion": 0.2209,
     "jugadas_destacadas": null,
     "epa_destacado": null,
     "snaps_def": 0.0,
     "pct_cap": null,
-    "epa_jugada_enc": 0.1828,
-    "grupo": "WR",
-    "ritmo_17": 23.1079
+    "epa_jugada_enc": -0.0289,
+    "grupo": "RB",
+    "ritmo_17": 10.1804
    },
    {
     "temporada": 2026,
@@ -3224,40 +3224,82 @@
     "equipo": "WAS",
     "pick": 71,
     "ronda": 3,
-    "jugadas": 42.0,
-    "epa": 10.4408,
-    "epa_jugada": 0.2486,
-    "tasa_exito": 0.5,
-    "valor_reemplazo": 13.4882,
-    "participacion": 0.5819,
+    "jugadas": 53.0,
+    "epa": 14.1349,
+    "epa_jugada": 0.2667,
+    "tasa_exito": 0.5283,
+    "valor_reemplazo": 6.0732,
+    "participacion": 0.6086,
     "jugadas_destacadas": null,
     "epa_destacado": null,
     "snaps_def": 0.0,
     "pct_cap": null,
-    "epa_jugada_enc": 0.2167,
+    "epa_jugada_enc": 0.2216,
     "grupo": "WR",
-    "ritmo_17": 22.93
+    "ritmo_17": 9.3859
    },
    {
     "temporada": 2026,
-    "nombre": "Denzel Boston",
-    "posicion": "WR",
-    "equipo": "CLE",
-    "pick": 39,
-    "ronda": 2,
-    "jugadas": 62.0,
-    "epa": 8.5507,
-    "epa_jugada": 0.1379,
-    "tasa_exito": 0.4194,
-    "valor_reemplazo": 13.0492,
-    "participacion": 0.8996,
+    "nombre": "Kaelon Black",
+    "posicion": "RB",
+    "equipo": "SF",
+    "pick": 90,
+    "ronda": 3,
+    "jugadas": 94.0,
+    "epa": -4.836,
+    "epa_jugada": -0.0514,
+    "tasa_exito": 0.4043,
+    "valor_reemplazo": 2.8991,
+    "participacion": 0.2584,
     "jugadas_destacadas": null,
     "epa_destacado": null,
     "snaps_def": 0.0,
     "pct_cap": null,
-    "epa_jugada_enc": 0.1926,
+    "epa_jugada_enc": -0.0437,
+    "grupo": "RB",
+    "ritmo_17": 4.4804
+   },
+   {
+    "temporada": 2026,
+    "nombre": "Zavion Thomas",
+    "posicion": "WR",
+    "equipo": "CHI",
+    "pick": 89,
+    "ronda": 3,
+    "jugadas": 15.0,
+    "epa": 5.0727,
+    "epa_jugada": 0.3382,
+    "tasa_exito": 0.6,
+    "valor_reemplazo": 2.7911,
+    "participacion": 0.1139,
+    "jugadas_destacadas": null,
+    "epa_destacado": null,
+    "snaps_def": 0.0,
+    "pct_cap": null,
+    "epa_jugada_enc": 0.2185,
     "grupo": "WR",
-    "ritmo_17": 22.1837
+    "ritmo_17": 4.3135
+   },
+   {
+    "temporada": 2026,
+    "nombre": "DJ Herman",
+    "posicion": "FB",
+    "equipo": "MIA",
+    "pick": null,
+    "ronda": null,
+    "jugadas": 5.0,
+    "epa": 1.9787,
+    "epa_jugada": 0.3957,
+    "tasa_exito": 0.6,
+    "valor_reemplazo": 2.3901,
+    "participacion": 0.321,
+    "jugadas_destacadas": null,
+    "epa_destacado": null,
+    "snaps_def": 0.0,
+    "pct_cap": null,
+    "epa_jugada_enc": -0.0028,
+    "grupo": "RB",
+    "ritmo_17": 3.6938
    },
    {
     "temporada": 2026,
@@ -3266,61 +3308,19 @@
     "equipo": "NYG",
     "pick": 74,
     "ronda": 3,
-    "jugadas": 39.0,
-    "epa": 10.1942,
-    "epa_jugada": 0.2614,
-    "tasa_exito": 0.5385,
-    "valor_reemplazo": 13.024,
-    "participacion": 0.7392,
+    "jugadas": 44.0,
+    "epa": 8.9888,
+    "epa_jugada": 0.2043,
+    "tasa_exito": 0.5,
+    "valor_reemplazo": 2.2961,
+    "participacion": 0.7572,
     "jugadas_destacadas": null,
     "epa_destacado": null,
     "snaps_def": 0.0,
     "pct_cap": null,
-    "epa_jugada_enc": 0.2184,
+    "epa_jugada_enc": 0.2084,
     "grupo": "WR",
-    "ritmo_17": 22.1407
-   },
-   {
-    "temporada": 2026,
-    "nombre": "Carnell Tate",
-    "posicion": "WR",
-    "equipo": "TEN",
-    "pick": 4,
-    "ronda": 1,
-    "jugadas": 51.0,
-    "epa": 8.7799,
-    "epa_jugada": 0.1722,
-    "tasa_exito": 0.5294,
-    "valor_reemplazo": 12.4803,
-    "participacion": 0.5025,
-    "jugadas_destacadas": null,
-    "epa_destacado": null,
-    "snaps_def": 0.0,
-    "pct_cap": null,
-    "epa_jugada_enc": 0.2021,
-    "grupo": "WR",
-    "ritmo_17": 21.2165
-   },
-   {
-    "temporada": 2026,
-    "nombre": "Dohnte Meyers",
-    "posicion": "WR",
-    "equipo": "CIN",
-    "pick": null,
-    "ronda": null,
-    "jugadas": 30.0,
-    "epa": 8.9658,
-    "epa_jugada": 0.2989,
-    "tasa_exito": 0.6,
-    "valor_reemplazo": 11.1425,
-    "participacion": 0.391,
-    "jugadas_destacadas": null,
-    "epa_destacado": null,
-    "snaps_def": 0.0,
-    "pct_cap": null,
-    "epa_jugada_enc": 0.2217,
-    "grupo": "WR",
-    "ritmo_17": 18.9423
+    "ritmo_17": 3.5485
    }
   ],
   "defensivos": [
@@ -3336,14 +3336,14 @@
     "epa_jugada": null,
     "tasa_exito": null,
     "valor_reemplazo": null,
-    "participacion": 0.7343,
-    "jugadas_destacadas": 15,
-    "epa_destacado": 17.7568,
-    "snaps_def": 478.0,
+    "participacion": 0.7279,
+    "jugadas_destacadas": 18,
+    "epa_destacado": 20.6736,
+    "snaps_def": 520.0,
     "pct_cap": null,
     "epa_jugada_enc": null,
     "grupo": "DL",
-    "ritmo_17": 30.1866
+    "ritmo_17": 31.95
    },
    {
     "temporada": 2026,
@@ -3357,77 +3357,14 @@
     "epa_jugada": null,
     "tasa_exito": null,
     "valor_reemplazo": null,
-    "participacion": 0.831,
-    "jugadas_destacadas": 8,
-    "epa_destacado": 17.5319,
-    "snaps_def": 541.0,
+    "participacion": 0.8651,
+    "jugadas_destacadas": 9,
+    "epa_destacado": 18.3084,
+    "snaps_def": 618.0,
     "pct_cap": null,
     "epa_jugada_enc": null,
     "grupo": "DB",
-    "ritmo_17": 29.8042
-   },
-   {
-    "temporada": 2026,
-    "nombre": "Hezekiah Masses",
-    "posicion": "CB",
-    "equipo": "LV",
-    "pick": 175,
-    "ronda": 5,
-    "jugadas": null,
-    "epa": null,
-    "epa_jugada": null,
-    "tasa_exito": null,
-    "valor_reemplazo": null,
-    "participacion": 0.5054,
-    "jugadas_destacadas": 8,
-    "epa_destacado": 15.1389,
-    "snaps_def": 329.0,
-    "pct_cap": null,
-    "epa_jugada_enc": null,
-    "grupo": "DB",
-    "ritmo_17": 25.7361
-   },
-   {
-    "temporada": 2026,
-    "nombre": "Arvell Reese",
-    "posicion": "LB",
-    "equipo": "NYG",
-    "pick": 5,
-    "ronda": 1,
-    "jugadas": null,
-    "epa": null,
-    "epa_jugada": null,
-    "tasa_exito": null,
-    "valor_reemplazo": null,
-    "participacion": 0.8863,
-    "jugadas_destacadas": 13,
-    "epa_destacado": 14.884,
-    "snaps_def": 577.0,
-    "pct_cap": null,
-    "epa_jugada_enc": null,
-    "grupo": "LB",
-    "ritmo_17": 25.3028
-   },
-   {
-    "temporada": 2026,
-    "nombre": "Brandon Cisse",
-    "posicion": "CB",
-    "equipo": "GB",
-    "pick": 52,
-    "ronda": 2,
-    "jugadas": null,
-    "epa": null,
-    "epa_jugada": null,
-    "tasa_exito": null,
-    "valor_reemplazo": null,
-    "participacion": 0.8817,
-    "jugadas_destacadas": 12,
-    "epa_destacado": 12.2451,
-    "snaps_def": 574.0,
-    "pct_cap": null,
-    "epa_jugada_enc": null,
-    "grupo": "DB",
-    "ritmo_17": 20.8167
+    "ritmo_17": 28.2948
    },
    {
     "temporada": 2026,
@@ -3441,14 +3378,77 @@
     "epa_jugada": null,
     "tasa_exito": null,
     "valor_reemplazo": null,
-    "participacion": 0.7588,
-    "jugadas_destacadas": 8,
-    "epa_destacado": 11.5995,
-    "snaps_def": 494.0,
+    "participacion": 0.7923,
+    "jugadas_destacadas": 10,
+    "epa_destacado": 15.7165,
+    "snaps_def": 566.0,
     "pct_cap": null,
     "epa_jugada_enc": null,
     "grupo": "DB",
-    "ritmo_17": 19.7192
+    "ritmo_17": 24.2891
+   },
+   {
+    "temporada": 2026,
+    "nombre": "Hezekiah Masses",
+    "posicion": "CB",
+    "equipo": "LV",
+    "pick": 175,
+    "ronda": 5,
+    "jugadas": null,
+    "epa": null,
+    "epa_jugada": null,
+    "tasa_exito": null,
+    "valor_reemplazo": null,
+    "participacion": 0.4689,
+    "jugadas_destacadas": 8,
+    "epa_destacado": 14.7363,
+    "snaps_def": 335.0,
+    "pct_cap": null,
+    "epa_jugada_enc": null,
+    "grupo": "DB",
+    "ritmo_17": 22.7742
+   },
+   {
+    "temporada": 2026,
+    "nombre": "Arvell Reese",
+    "posicion": "LB",
+    "equipo": "NYG",
+    "pick": 5,
+    "ronda": 1,
+    "jugadas": null,
+    "epa": null,
+    "epa_jugada": null,
+    "tasa_exito": null,
+    "valor_reemplazo": null,
+    "participacion": 0.9085,
+    "jugadas_destacadas": 14,
+    "epa_destacado": 14.6841,
+    "snaps_def": 649.0,
+    "pct_cap": null,
+    "epa_jugada_enc": null,
+    "grupo": "LB",
+    "ritmo_17": 22.6936
+   },
+   {
+    "temporada": 2026,
+    "nombre": "Brandon Cisse",
+    "posicion": "CB",
+    "equipo": "GB",
+    "pick": 52,
+    "ronda": 2,
+    "jugadas": null,
+    "epa": null,
+    "epa_jugada": null,
+    "tasa_exito": null,
+    "valor_reemplazo": null,
+    "participacion": 0.8035,
+    "jugadas_destacadas": 12,
+    "epa_destacado": 12.8738,
+    "snaps_def": 574.0,
+    "pct_cap": null,
+    "epa_jugada_enc": null,
+    "grupo": "DB",
+    "ritmo_17": 19.8958
    },
    {
     "temporada": 2026,
@@ -3462,14 +3462,35 @@
     "epa_jugada": null,
     "tasa_exito": null,
     "valor_reemplazo": null,
-    "participacion": 0.5991,
-    "jugadas_destacadas": 12,
-    "epa_destacado": 11.5765,
-    "snaps_def": 390.0,
+    "participacion": 0.6075,
+    "jugadas_destacadas": 14,
+    "epa_destacado": 12.3522,
+    "snaps_def": 434.0,
     "pct_cap": null,
     "epa_jugada_enc": null,
     "grupo": "DB",
-    "ritmo_17": 19.6801
+    "ritmo_17": 19.0897
+   },
+   {
+    "temporada": 2026,
+    "nombre": "Will Lee III",
+    "posicion": "CB",
+    "equipo": "CAR",
+    "pick": 129,
+    "ronda": 4,
+    "jugadas": null,
+    "epa": null,
+    "epa_jugada": null,
+    "tasa_exito": null,
+    "valor_reemplazo": null,
+    "participacion": 0.5767,
+    "jugadas_destacadas": 10,
+    "epa_destacado": 11.9338,
+    "snaps_def": 412.0,
+    "pct_cap": null,
+    "epa_jugada_enc": null,
+    "grupo": "DB",
+    "ritmo_17": 18.4431
    },
    {
     "temporada": 2026,
@@ -3483,35 +3504,14 @@
     "epa_jugada": null,
     "tasa_exito": null,
     "valor_reemplazo": null,
-    "participacion": 0.5315,
+    "participacion": 0.4843,
     "jugadas_destacadas": 4,
-    "epa_destacado": 11.3311,
+    "epa_destacado": 11.2953,
     "snaps_def": 346.0,
     "pct_cap": null,
     "epa_jugada_enc": null,
     "grupo": "LB",
-    "ritmo_17": 19.2628
-   },
-   {
-    "temporada": 2026,
-    "nombre": "Gracen Halton",
-    "posicion": "DL",
-    "equipo": "SF",
-    "pick": 107,
-    "ronda": 4,
-    "jugadas": null,
-    "epa": null,
-    "epa_jugada": null,
-    "tasa_exito": null,
-    "valor_reemplazo": null,
-    "participacion": 0.3502,
-    "jugadas_destacadas": 6,
-    "epa_destacado": 11.0603,
-    "snaps_def": 228.0,
-    "pct_cap": null,
-    "epa_jugada_enc": null,
-    "grupo": "DL",
-    "ritmo_17": 18.8025
+    "ritmo_17": 17.4563
    },
    {
     "temporada": 2026,
@@ -3525,14 +3525,14 @@
     "epa_jugada": null,
     "tasa_exito": null,
     "valor_reemplazo": null,
-    "participacion": 0.5023,
+    "participacion": 0.5179,
     "jugadas_destacadas": 10,
-    "epa_destacado": 10.9704,
-    "snaps_def": 327.0,
+    "epa_destacado": 10.7525,
+    "snaps_def": 370.0,
     "pct_cap": null,
     "epa_jugada_enc": null,
     "grupo": "DB",
-    "ritmo_17": 18.6498
+    "ritmo_17": 16.6175
    }
   ]
  },
@@ -3544,16 +3544,16 @@
    "k": 463.4729
   },
   "QB": {
-   "media": 0.061,
-   "sd_jugada": 1.3508,
+   "media": 0.0607,
+   "sd_jugada": 1.3495,
    "sd_real": 0.1015,
-   "k": 177.1554
+   "k": 176.6269
   },
   "RB": {
-   "media": -0.0416,
-   "sd_jugada": 0.8687,
-   "sd_real": 0.054,
-   "k": 258.9895
+   "media": -0.0409,
+   "sd_jugada": 0.8676,
+   "sd_real": 0.0538,
+   "k": 259.9197
   },
   "TE": {
    "media": 0.1941,
@@ -3562,13 +3562,13 @@
    "k": 146.2152
   },
   "WR": {
-   "media": 0.2099,
-   "sd_jugada": 1.4275,
-   "sd_real": 0.102,
-   "k": 195.6724
+   "media": 0.2094,
+   "sd_jugada": 1.4266,
+   "sd_real": 0.1021,
+   "k": 195.4274
   }
  },
- "n_jugadas": 538957,
+ "n_jugadas": 540548,
  "robustez": [
   {
    "titulares": {

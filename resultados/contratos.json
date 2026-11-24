@@ -181,18 +181,18 @@
   {
    "grupo": "LB",
    "etapa": "Años 2 a 4",
-   "titular_por_pct": 0.4978,
-   "ic_bajo": 0.4658,
-   "ic_alto": 0.5304,
-   "temporadas": 1527
+   "titular_por_pct": 0.4965,
+   "ic_bajo": 0.4659,
+   "ic_alto": 0.529,
+   "temporadas": 1525
   },
   {
    "grupo": "LB",
    "etapa": "Novato",
-   "titular_por_pct": 0.4903,
-   "ic_bajo": 0.4523,
-   "ic_alto": 0.532,
-   "temporadas": 622
+   "titular_por_pct": 0.4909,
+   "ic_bajo": 0.4531,
+   "ic_alto": 0.531,
+   "temporadas": 621
   },
   {
    "grupo": "OL",
